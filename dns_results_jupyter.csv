@@ -1,0 +1,1837 @@
+DNS,Domain,AvgTime,MedianTime,MinTime,MaxTime,StdDev,ValidTries,FailedTries
+Google IPv4,microsoft.com,30.4,31.0,28,32,1.3564659966250536,5,0
+Google IPv4,wikipedia.org,26.8,28.0,18,32,4.833218389437829,5,0
+Google IPv4,google.com,30.8,31.0,30,32,0.7483314773547882,5,0
+Google IPv4,facebook.com,32.2,32.0,31,34,1.16619037896906,5,0
+Google IPv4,bing.com,27.4,30.0,17,35,6.280127387243033,5,0
+Google IPv4,twitch.tv,31.6,31.0,28,35,2.3323807579381204,5,0
+Google IPv4,netflix.com,38.2,38.0,31,48,5.81033561853358,5,0
+Google IPv4,youtube.com,33.0,35.0,28,35,2.756809750418044,5,0
+Google IPv4,paypal.com,31.2,31.0,28,35,2.315167380558045,5,0
+Google IPv4,instagram.com,33.4,33.0,32,36,1.3564659966250536,5,0
+Google IPv4,espn.com,33.2,33.0,31,37,2.039607805437114,5,0
+Google IPv4,quora.com,32.0,32.0,30,34,1.4142135623730951,5,0
+Google IPv4,amazon.com,33.0,31.0,27,46,6.663332499583072,5,0
+Google IPv4,pinterest.com,27.8,27.0,24,33,3.059411708155671,5,0
+Google IPv4,spotify.com,30.8,29.0,28,37,3.249615361854384,5,0
+Google IPv4,airbnb.com,34.0,34.0,32,36,1.4142135623730951,5,0
+Google IPv4,ebay.com,30.6,31.0,30,31,0.4898979485566356,5,0
+Google IPv4,imdb.com,32.8,33.0,31,36,1.8330302779823358,5,0
+Google IPv4,cnn.com,33.2,31.0,30,38,3.1874754901018454,5,0
+Google IPv4,wordpress.com,28.8,27.0,26,33,2.7129319932501073,5,0
+Google IPv4,linkedin.com,36.8,34.0,29,48,7.138627319029898,5,0
+Google IPv4,bbc.com,32.0,31.0,29,36,2.9664793948382653,5,0
+Google IPv4,apple.com,29.0,28.0,27,31,1.6733200530681511,5,0
+Google IPv4,reddit.com,32.2,32.0,27,38,3.54400902933387,5,0
+Google IPv4,booking.com,32.2,31.0,30,38,2.993325909419153,5,0
+Google IPv4,zoom.us,43.2,33.0,27,92,24.522642598219303,5,0
+Google IPv4,nytimes.com,32.6,31.0,30,38,2.8705400188814645,5,0
+Google IPv4,twitter.com,27.8,30.0,20,31,4.166533331199932,5,0
+Google IPv4,whatsapp.com,44.2,32.0,31,92,23.919866220361687,5,0
+Google IPv4,tumblr.com,30.0,31.0,20,37,5.549774770204643,5,0
+Google IPv4,tiktok.com,114.8,121.0,33,165,49.17885724577179,5,0
+Google IPv4,weather.com,124.4,92.0,28,255,77.92971192042224,5,0
+Google IPv4,github.com,35.4,36.0,31,40,3.1368774282716245,5,0
+Google IPv4,npmjs.com,32.6,33.0,30,35,1.624807680927192,5,0
+Google IPv4,pypi.org,28.4,29.0,23,31,2.8,5,0
+Google IPv4,stackoverflow.com,35.2,36.0,32,37,1.9390719429665317,5,0
+Google IPv4,dev.to,37.4,34.0,33,49,6.086049621881176,5,0
+Google IPv4,sourceforge.net,39.2,37.0,32,53,7.6,5,0
+Google IPv4,gitlab.com,34.4,32.0,29,47,6.437390775772434,5,0
+Google IPv4,bitbucket.org,33.4,33.0,29,37,2.870540018881465,5,0
+Google IPv4,anaconda.org,32.8,33.0,32,33,0.4,5,0
+Google IPv4,files.pythonhosted.org,50.2,55.0,31,58,9.867117106835208,5,0
+Google IPv4,readthedocs.io,32.4,34.0,26,35,3.261901286060018,5,0
+Google IPv4,one.one.one.one,29.4,29.0,25,34,3.006659275674582,5,0
+Google IPv4,cran.r-project.org,32.4,33.0,29,37,2.8000000000000003,5,0
+Google IPv4,rubygems.org,63.6,34.0,30,186,61.248999991836605,5,0
+Google IPv4,grafana.com,29.2,29.0,29,30,0.39999999999999997,5,0
+Google IPv4,dns.google,26.6,28.0,18,30,4.454211490264017,5,0
+Google IPv4,akamai.net,32.0,31.0,30,35,2.0976176963403033,5,0
+Google IPv4,registry.terraform.io,34.2,34.0,33,36,0.9797958971132711,5,0
+Google IPv4,cloudflare.com,30.8,34.0,18,38,6.881860213634101,5,0
+Google IPv4,prometheus.io,35.2,35.0,30,39,2.993325909419153,5,0
+Google IPv4,repo.maven.apache.org,35.6,30.0,27,56,10.781465577554844,5,0
+Google IPv4,godoc.org,33.0,31.0,28,40,4.147288270665544,5,0
+Google IPv4,circleci.com,32.4,32.0,29,37,2.8705400188814645,5,0
+Google IPv4,fastly.net,30.2,30.0,29,31,0.7483314773547883,5,0
+Google IPv4,cloudfront.net,29.2,29.0,28,31,1.1661903789690602,5,0
+Google IPv4,cdn.cloudflare.net,31.0,32.0,29,32,1.2649110640673518,5,0
+Google IPv4,registry.npmjs.org,33.8,35.0,31,37,2.4000000000000004,5,0
+Google IPv4,docker.com,31.2,31.0,30,32,0.7483314773547882,5,0
+Google IPv4,jetbrains.com,44.6,36.0,30,69,14.458215657542254,5,0
+Google IPv4,edgesuite.net,29.0,29.0,24,34,3.687817782917155,5,0
+Google IPv4,travis-ci.com,50.0,39.0,34,100,25.115732121520963,5,0
+Google IPv4,opendns.com,32.0,33.0,28,34,2.0976176963403033,5,0
+Google IPv4,resolver.arpa,31.4,31.0,30,35,1.8547236990991407,5,0
+Google IPv4,nextdns.io,34.4,35.0,31,37,2.154065922853802,5,0
+Google IPv4,akamai.com,31.4,31.0,30,34,1.3564659966250536,5,0
+Google IPv4,verisign.com,31.6,31.0,30,34,1.3564659966250536,5,0
+Google IPv4,resolv.conf,32.2,32.0,32,33,0.4,5,0
+Google IPv4,dns.adguard-dns.com,31.4,31.0,30,34,1.4966629547095764,5,0
+Google IPv4,stackpathdns.com,32.4,32.0,30,36,2.0591260281974,5,0
+Google IPv4,baidu.com,29.4,30.0,27,30,1.2000000000000002,5,0
+Google IPv4,he.net,30.2,30.0,27,34,2.315167380558045,5,0
+Google IPv4,adguard.com,80.2,35.0,34,263,91.40109408535547,5,0
+Google IPv4,ultradns.com,51.6,57.0,31,59,10.49952379872535,5,0
+Google IPv4,zone.ug,29.6,30.0,28,30,0.7999999999999999,5,0
+Google IPv4,akamaihd.net,31.4,31.0,28,35,2.416609194718914,5,0
+Google IPv4,naver.com,29.4,29.0,26,32,2.0591260281974,5,0
+Google IPv4,cachefly.net,62.0,32.0,28,184,61.05735008989499,5,0
+Google IPv4,jio.com,29.8,30.0,28,31,0.9797958971132713,5,0
+Google IPv4,yandex.ru,30.4,30.0,29,32,1.0198039027185568,5,0
+Google IPv4,nsone.net,65.2,57.0,28,95,25.85652722234755,5,0
+Google IPv4,edgekey.net,32.0,31.0,30,36,2.0976176963403033,5,0
+Google IPv4,quad9.net,46.2,37.0,25,98,26.301330764811123,5,0
+Google IPv4,nic.in,31.2,32.0,29,33,1.469693845669907,5,0
+Google IPv4,nic.coop,38.6,37.0,33,44,4.586937976471886,5,0
+Google IPv4,zenedge.net,31.6,32.0,27,35,2.870540018881465,5,0
+Google IPv4,cleanbrowsing.org,96.2,95.0,33,162,40.83821739498432,5,0
+Google IPv4,nic.cn,69.0,33.0,30,159,50.774009099144415,5,0
+Google IPv4,nic.cl,107.4,35.0,31,404,148.30859718843004,5,0
+Google IPv4,nic.af,32.4,31.0,28,42,5.0039984012787215,5,0
+Google IPv4,gov.uk,174.6,87.0,80,328,113.0461852518695,5,0
+Google IPv4,cern.ch,179.8,37.0,34,398,177.34756835096445,5,0
+Google IPv4,nic.ru,261.2,414.0,27,417,189.59789028362104,5,0
+Google IPv4,level3.com,382.0,318.0,255,543,131.42145943490354,5,0
+Google IPv4,nic.br,602.0,581.0,502,691,66.68733013099265,5,0
+Google IPv4,mail.ru,32.4,31.0,27,38,4.363484845854286,5,0
+Google IPv4,globo.com,30.8,31.0,27,33,2.0396078054371136,5,0
+Google IPv4,nic.ng,43.0,32.0,25,96,26.623298067669978,5,0
+Google IPv4,iana.org,31.6,30.0,29,37,3.0724582991474434,5,0
+Google IPv4,myip.opendns.com,33.8,32.0,30,40,3.7094473981982814,5,0
+Google IPv4,telstra.com.au,85.0,94.0,27,178,54.74303608679373,5,0
+Google IPv4,test-ipv6.com,30.6,32.0,25,34,3.261901286060018,5,0
+Google IPv4,test.openresolver.com,30.6,31.0,25,33,2.9393876913398134,5,0
+Google IPv4,or.kr,118.8,175.0,29,183,72.96135963645415,5,0
+Google IPv4,whoami.akamai.net,30.2,30.0,25,36,3.54400902933387,5,0
+Google IPv4,blackhole.webpagetest.org,42.6,30.0,29,93,25.207935258564913,5,0
+Google IPv4,ntt.com,88.4,33.0,32,177,68.72728715728564,5,0
+Google IPv4,openstreetmap.fr,32.8,32.0,28,37,3.059411708155671,5,0
+Google IPv4,root-servers.net,55.4,34.0,29,92,29.520162601178196,5,0
+Google IPv4,ip6.nl,32.6,31.0,30,38,3.0724582991474434,5,0
+Google IPv4,nic.or.kr,154.6,33.0,31,496,180.19167572338074,5,0
+Google IPv4,torproject.org,104.2,33.0,28,395,145.42819534051847,5,0
+Google IPv4,dnscrypt.info,31.0,32.0,26,34,2.6832815729997477,5,0
+Google IPv4,plan99.net,33.4,33.0,29,39,3.2619012860600183,5,0
+Google IPv4,rogers.com,235.4,306.0,94,312,91.93824013978079,5,0
+Google IPv4,sapo.pt,245.8,386.0,27,398,177.8779356750016,5,0
+Google IPv4,example.net,222.0,270.0,30,272,96.0145822258265,5,0
+Google IPv4,dnspython.org,35.0,34.0,32,38,2.1908902300206643,5,0
+Google IPv4,proximus.be,244.6,382.0,32,391,172.39327133040894,5,0
+Google IPv4,bell.ca,250.8,304.0,30,312,110.44528056915786,5,0
+Google IPv4,example.edu,271.4,273.0,33,508,150.21930634908418,5,0
+Google IPv4,sina.com.cn,308.8,345.0,31,617,242.59958779849563,5,0
+Google IPv4,publicsuffix.org,31.4,30.0,28,39,3.878143885933063,5,0
+Google IPv4,openwrt.org,30.0,31.0,25,34,2.9664793948382653,5,0
+Google IPv4,xip.io,218.0,245.0,93,262,62.849025449882674,5,0
+Google IPv4,kpn.com,586.0,726.0,30,727,278.0122299468137,5,0
+Google IPv4,nlnetlabs.nl,102.0,35.0,32,373,135.50645741070792,5,0
+Google IPv4,dl.acm.org,33.6,34.0,29,36,2.4166091947189146,5,0
+Google IPv4,rsdn.org,29.4,30.0,28,31,1.2000000000000002,5,0
+Google IPv4,eprints.soton.ac.uk,31.0,31.0,29,32,1.0954451150103321,5,0
+Google IPv4,checkmydns.net,30.4,30.0,25,34,3.1368774282716245,5,0
+Google IPv4,ipinfo.io,33.2,31.0,30,44,5.418486873657627,5,0
+Google IPv4,dnscheck.tools,34.2,36.0,29,38,3.54400902933387,5,0
+Google IPv4,nvlpubs.nist.gov,40.4,35.0,34,63,11.306635220082056,5,0
+Google IPv4,ping.pe,37.2,33.0,30,49,6.9397406291589885,5,0
+Google IPv4,labnbook.com,46.2,35.0,31,96,24.94313532818198,5,0
+Google IPv4,trace.test,30.0,30.0,28,32,1.4142135623730951,5,0
+Google IPv4,whatismyip.akamai.com,32.2,33.0,30,33,1.16619037896906,5,0
+Google IPv4,speed.cloudflare.com,33.8,34.0,30,39,3.1874754901018454,5,0
+Google IPv4,cloudping.info,30.8,30.0,29,33,1.469693845669907,5,0
+Google IPv4,bgp.he.net,31.2,30.0,28,35,2.481934729198171,5,0
+Google IPv4,archive.org,60.8,35.0,30,168,53.66339534543076,5,0
+Google IPv4,ping.eu,27.2,27.0,23,30,2.6381811916545836,5,0
+Google IPv4,root-servers.org,32.2,32.0,30,34,1.5999999999999999,5,0
+Google IPv4,a.root-servers.net,31.4,31.0,27,35,2.870540018881465,5,0
+Google IPv4,int,31.0,30.0,30,34,1.5491933384829668,5,0
+Google IPv4,iana.com,30.8,32.0,25,33,2.993325909419153,5,0
+Google IPv4,dnsleaktest.com,203.2,307.0,34,320,135.37414819676613,5,0
+Google IPv4,arpa,29.8,28.0,25,38,4.4,5,0
+Google IPv6,youtube.com,34.0,33.0,31,39,2.8284271247461903,5,0
+Google IPv4,tld-list.com,35.0,37.0,30,39,3.7416573867739413,5,0
+Google IPv6,google.com,31.8,30.0,28,41,4.707440918375928,5,0
+Google IPv4,l.root-servers.net,125.6,165.0,33,168,54.26085144927234,5,0
+Google IPv6,amazon.com,30.6,31.0,26,35,2.870540018881465,5,0
+Google IPv6,facebook.com,79.6,36.0,33,260,90.20997727524379,5,0
+Google IPv6,wikipedia.org,47.6,35.0,29,97,25.279240494919936,5,0
+Google IPv4,whois.iana.org,271.8,270.0,269,280,4.1182520563948,5,0
+Google IPv6,apple.com,29.6,31.0,25,33,3.0724582991474434,5,0
+Google IPv6,microsoft.com,29.0,31.0,19,33,5.0990195135927845,5,0
+Google IPv6,bing.com,28.6,27.0,23,35,4.63033476111609,5,0
+Google IPv6,reddit.com,31.2,31.0,30,32,0.7483314773547882,5,0
+Google IPv6,linkedin.com,30.2,30.0,27,33,1.9390719429665315,5,0
+Google IPv6,netflix.com,34.2,33.0,30,41,3.9698866482558417,5,0
+Google IPv6,twitch.tv,32.4,31.0,30,37,2.727636339397171,5,0
+Google IPv6,instagram.com,35.0,33.0,31,44,4.69041575982343,5,0
+Google IPv6,twitter.com,32.4,32.0,28,38,3.2619012860600183,5,0
+Google IPv6,spotify.com,34.4,31.0,29,41,5.043808085167396,5,0
+Google IPv6,nytimes.com,37.8,34.0,30,59,10.851727973000429,5,0
+Google IPv6,zoom.us,38.2,37.0,34,45,3.655133376499413,5,0
+Google IPv6,espn.com,39.0,35.0,30,61,11.189280584559492,5,0
+Google IPv6,quora.com,39.0,36.0,34,45,4.560701700396552,5,0
+Google IPv6,pinterest.com,35.4,34.0,33,42,3.3823069050575527,5,0
+Google IPv6,whatsapp.com,34.4,36.0,30,37,2.5768197453450252,5,0
+Google IPv6,tiktok.com,94.8,95.0,34,128,34.01999412110472,5,0
+Google IPv6,imdb.com,31.0,30.0,30,33,1.2649110640673518,5,0
+Google IPv6,ebay.com,44.2,31.0,31,95,25.41180827882975,5,0
+Google IPv6,cnn.com,38.2,36.0,33,49,5.635601121442148,5,0
+Google IPv6,paypal.com,32.4,31.0,30,37,2.4979991993593593,5,0
+Google IPv6,bbc.com,167.4,93.0,33,374,143.15390319512773,5,0
+Google IPv6,booking.com,39.6,36.0,32,61,10.818502669038816,5,0
+Google IPv6,tumblr.com,32.6,32.0,30,36,2.154065922853802,5,0
+Google IPv6,wordpress.com,30.0,30.0,24,37,4.242640687119285,5,0
+Google IPv6,weather.com,95.8,93.0,30,164,58.183846555551824,5,0
+Google IPv6,github.com,40.0,40.0,30,55,8.366600265340756,5,0
+Google IPv6,gitlab.com,36.6,35.0,33,45,4.31740662898458,5,0
+Google IPv6,stackoverflow.com,34.8,36.0,28,39,3.762977544445356,5,0
+Google IPv6,docker.com,33.8,33.0,32,37,1.7204650534085253,5,0
+Google IPv6,airbnb.com,239.4,36.0,31,1060,410.30408235843817,5,0
+Google IPv6,pypi.org,33.4,31.0,30,40,3.9799497484264794,5,0
+Google IPv6,files.pythonhosted.org,49.0,60.0,30,61,13.942740046346701,5,0
+Google IPv6,npmjs.com,32.4,33.0,30,34,1.3564659966250536,5,0
+Google IPv6,registry.npmjs.org,35.8,36.0,35,37,0.7483314773547882,5,0
+Google IPv6,dev.to,33.2,33.0,32,34,0.7483314773547882,5,0
+Google IPv6,sourceforge.net,34.6,33.0,31,43,4.31740662898458,5,0
+Google IPv6,jetbrains.com,35.6,35.0,32,41,3.2,5,0
+Google IPv6,repo.maven.apache.org,45.0,50.0,32,56,10.807404868885037,5,0
+Google IPv6,bitbucket.org,32.6,34.0,30,35,2.154065922853802,5,0
+Google IPv6,anaconda.org,31.4,32.0,27,34,2.65329983228432,5,0
+Google IPv6,grafana.com,32.0,33.0,27,35,2.6832815729997477,5,0
+Google IPv6,godoc.org,34.2,34.0,32,37,1.7204650534085253,5,0
+Google IPv6,registry.terraform.io,38.6,37.0,33,48,5.0039984012787215,5,0
+Google IPv6,prometheus.io,37.0,37.0,35,39,1.4142135623730951,5,0
+Google IPv6,readthedocs.io,37.2,34.0,33,47,5.192301994298868,5,0
+Google IPv6,circleci.com,66.0,41.0,33,157,46.389654018972806,5,0
+Google IPv6,one.one.one.one,33.6,33.0,32,37,1.8547236990991407,5,0
+Google IPv6,cloudflare.com,34.4,34.0,31,38,2.4166091947189146,5,0
+Google IPv6,cdn.cloudflare.net,34.2,33.0,32,37,1.9390719429665317,5,0
+Google IPv6,dns.google,33.0,32.0,31,37,2.280350850198276,5,0
+Google IPv6,cloudfront.net,36.0,37.0,33,40,2.6832815729997477,5,0
+Google IPv6,rubygems.org,218.8,258.0,94,278,70.73160538260106,5,0
+Google IPv6,travis-ci.com,34.6,33.0,31,39,3.261901286060018,5,0
+Google IPv6,fastly.net,33.8,33.0,33,36,1.16619037896906,5,0
+Google IPv6,akamai.net,45.6,33.0,31,96,25.231726060656253,5,0
+Google IPv6,opendns.com,34.0,33.0,31,40,3.1622776601683795,5,0
+Google IPv6,quad9.net,34.8,36.0,31,37,2.1354156504062622,5,0
+Google IPv6,nextdns.io,32.4,32.0,28,36,2.8705400188814645,5,0
+Google IPv6,adguard.com,34.0,34.0,31,38,2.756809750418044,5,0
+Google IPv6,edgesuite.net,114.4,164.0,33,173,66.52398063856371,5,0
+Google IPv6,cran.r-project.org,461.0,404.0,392,702,120.6780841743852,5,0
+Google IPv6,cleanbrowsing.org,56.6,35.0,32,96,28.28144267890165,5,0
+Google IPv6,verisign.com,32.4,31.0,30,37,2.4979991993593593,5,0
+Google IPv6,resolver.arpa,31.4,32.0,28,33,1.854723699099141,5,0
+Google IPv6,ultradns.com,55.4,54.0,30,94,22.44638055455712,5,0
+Google IPv6,resolv.conf,31.6,32.0,30,33,1.0198039027185568,5,0
+Google IPv6,dns.adguard-dns.com,33.0,33.0,30,36,2.280350850198276,5,0
+Google IPv6,akamaihd.net,83.4,93.0,31,166,49.62499370277038,5,0
+Google IPv6,nsone.net,56.6,58.0,31,96,23.31179958733345,5,0
+Google IPv6,zenedge.net,33.6,34.0,30,37,2.244994432064365,5,0
+Google IPv6,he.net,32.0,33.0,23,40,5.440588203494177,5,0
+Google IPv6,baidu.com,28.6,30.0,18,33,5.535341001239218,5,0
+Google IPv6,cachefly.net,32.4,32.0,30,35,1.624807680927192,5,0
+Google IPv6,stackpathdns.com,36.0,37.0,30,43,4.898979485566356,5,0
+Google IPv6,akamai.com,94.0,95.0,31,161,55.346183246905106,5,0
+Google IPv6,edgekey.net,95.0,95.0,33,128,34.75053956415641,5,0
+Google IPv6,nic.in,34.6,34.0,30,42,3.97994974842648,5,0
+Google IPv6,jio.com,32.0,31.0,28,40,4.242640687119285,5,0
+Google IPv6,zone.ug,31.2,32.0,27,33,2.2271057451320084,5,0
+Google IPv6,yandex.ru,34.4,35.0,32,37,1.7435595774162693,5,0
+Google IPv6,nic.coop,36.4,36.0,33,40,2.4166091947189146,5,0
+Google IPv6,naver.com,105.0,97.0,31,203,55.27024515957931,5,0
+Google IPv6,nic.cl,31.8,33.0,25,36,3.7629775444453557,5,0
+Google IPv6,level3.com,285.4,265.0,257,322,28.806943607401323,5,0
+Google IPv6,nic.af,33.8,34.0,32,36,1.3266499161421599,5,0
+Google IPv6,gov.uk,243.6,140.0,89,541,178.45290695306701,5,0
+Google IPv6,globo.com,32.0,33.0,26,37,3.5777087639996634,5,0
+Google IPv6,nic.ng,33.8,33.0,32,37,1.7204650534085253,5,0
+Google IPv6,nic.cn,81.6,85.0,33,157,45.28840911314947,5,0
+Google IPv6,cern.ch,182.6,35.0,28,413,185.28961114968104,5,0
+Google IPv6,nic.ru,111.6,35.0,29,423,155.7582742585446,5,0
+Google IPv6,mail.ru,109.6,35.0,28,420,155.2322131517811,5,0
+Google IPv6,or.kr,90.2,35.0,34,176,68.43507872429169,5,0
+Google IPv6,sina.com.cn,302.4,344.0,35,582,231.7486569540372,5,0
+Google IPv6,sapo.pt,176.0,34.0,30,393,176.7766952966369,5,0
+Google IPv6,nic.or.kr,65.8,33.0,31,199,66.60450435218327,5,0
+Google IPv6,example.net,32.8,34.0,30,35,1.9390719429665317,5,0
+Google IPv6,telstra.com.au,44.6,32.0,31,96,25.710698162438142,5,0
+Google IPv6,iana.org,30.8,31.0,27,33,2.227105745132009,5,0
+Google IPv6,blackhole.webpagetest.org,32.4,32.0,32,33,0.4898979485566356,5,0
+Google IPv6,nic.br,721.8,790.0,585,845,113.15016570911419,5,0
+Google IPv6,rogers.com,79.8,95.0,34,137,39.846706262876985,5,0
+Google IPv6,bell.ca,87.8,33.0,30,311,111.60537621458923,5,0
+Google IPv6,example.edu,128.4,34.0,31,273,116.84964698277868,5,0
+Google IPv6,ntt.com,115.6,164.0,32,174,67.13151271943751,5,0
+Google IPv6,test-ipv6.com,31.2,32.0,27,34,2.481934729198171,5,0
+Google IPv6,whoami.akamai.net,30.6,31.0,28,34,2.33238075793812,5,0
+Google IPv6,test.openresolver.com,32.4,34.0,28,34,2.3323807579381204,5,0
+Google IPv6,myip.opendns.com,31.8,33.0,28,34,2.4,5,0
+Google IPv6,ip6.nl,32.4,32.0,31,34,1.019803902718557,5,0
+Google IPv6,openstreetmap.fr,36.8,33.0,31,55,9.173875952943773,5,0
+Google IPv6,root-servers.net,104.0,36.0,35,374,135.00666650206574,5,0
+Google IPv6,plan99.net,32.4,32.0,27,39,3.878143885933063,5,0
+Google IPv6,publicsuffix.org,32.2,32.0,31,33,0.7483314773547882,5,0
+Google IPv6,dnscrypt.info,31.8,31.0,30,34,1.4696938456699067,5,0
+Google IPv6,dnspython.org,33.6,34.0,28,38,3.4409301068170506,5,0
+Google IPv6,openwrt.org,32.2,32.0,29,35,1.9390719429665317,5,0
+Google IPv6,torproject.org,231.8,295.0,32,402,167.14951390895519,5,0
+Google IPv6,proximus.be,385.8,386.0,385,387,0.7483314773547883,5,0
+Google IPv6,labnbook.com,38.8,37.0,36,47,4.166533331199932,5,0
+Google IPv6,nlnetlabs.nl,34.8,34.0,32,39,2.4819347291981715,5,0
+Google IPv6,xip.io,215.2,257.0,35,274,90.52380902282006,5,0
+Google IPv6,archive.org,33.4,33.0,32,35,1.019803902718557,5,0
+Google IPv6,dl.acm.org,34.0,35.0,30,37,2.6076809620810595,5,0
+Google IPv6,kpn.com,593.0,733.0,34,741,279.55893832964813,5,0
+Google IPv6,eprints.soton.ac.uk,32.4,33.0,31,33,0.8,5,0
+Google IPv6,nvlpubs.nist.gov,35.4,36.0,33,38,1.7435595774162693,5,0
+Google IPv6,rsdn.org,32.8,33.0,31,34,1.16619037896906,5,0
+Google IPv6,dnscheck.tools,36.8,37.0,33,40,2.9257477676655586,5,0
+Google IPv6,checkmydns.net,32.2,32.0,28,35,2.4,5,0
+Google IPv6,ipinfo.io,32.0,32.0,31,34,1.0954451150103321,5,0
+Google IPv6,trace.test,33.8,32.0,31,38,2.7129319932501073,5,0
+Google IPv6,cloudping.info,33.0,33.0,32,34,0.6324555320336759,5,0
+Google IPv6,whatismyip.akamai.com,35.4,35.0,34,38,1.4966629547095764,5,0
+Google IPv6,dnsleaktest.com,99.6,34.0,27,373,136.7327319993278,5,0
+Google IPv6,ping.eu,33.4,33.0,33,34,0.4898979485566356,5,0
+Google IPv6,speed.cloudflare.com,41.4,41.0,37,48,4.223742416388575,5,0
+Google IPv6,ping.pe,34.4,35.0,28,38,3.49857113690718,5,0
+Google IPv6,bgp.he.net,32.6,32.0,31,35,1.3564659966250536,5,0
+Google IPv6,a.root-servers.net,32.6,33.0,30,35,1.6248076809271923,5,0
+Google IPv6,l.root-servers.net,77.0,95.0,34,125,36.00555512695229,5,0
+Google IPv6,iana.com,32.0,33.0,29,34,1.7888543819998317,5,0
+Google IPv6,int,31.6,32.0,29,34,1.854723699099141,5,0
+Google IPv6,root-servers.org,125.4,32.0,32,498,186.30040257605458,5,0
+Google IPv6,arpa,33.4,33.0,31,35,1.4966629547095764,5,0
+Cloudflare IPv4,facebook.com,47.4,47.0,47,48,0.4898979485566356,5,0
+Cloudflare IPv4,youtube.com,47.6,47.0,46,50,1.3564659966250538,5,0
+Cloudflare IPv4,google.com,49.6,47.0,47,58,4.2708313008125245,5,0
+Google IPv6,tld-list.com,35.2,35.0,33,39,2.039607805437114,5,0
+Cloudflare IPv4,microsoft.com,47.6,47.0,46,51,1.7435595774162693,5,0
+Cloudflare IPv4,wikipedia.org,49.0,49.0,47,52,1.8973665961010275,5,0
+Cloudflare IPv4,apple.com,47.2,47.0,46,48,0.7483314773547882,5,0
+Cloudflare IPv4,amazon.com,47.8,48.0,43,51,3.059411708155671,5,0
+Cloudflare IPv4,instagram.com,49.6,49.0,47,54,2.4166091947189146,5,0
+Cloudflare IPv4,linkedin.com,46.8,47.0,44,49,1.7204650534085253,5,0
+Cloudflare IPv4,bing.com,46.4,47.0,45,47,0.7999999999999999,5,0
+Google IPv6,whois.iana.org,280.2,273.0,272,309,14.441606558828557,5,0
+Cloudflare IPv4,reddit.com,48.2,47.0,46,51,2.315167380558045,5,0
+Cloudflare IPv4,netflix.com,47.4,48.0,45,49,1.3564659966250536,5,0
+Cloudflare IPv4,spotify.com,49.0,46.0,45,60,5.585696017507576,5,0
+Cloudflare IPv4,quora.com,48.8,46.0,46,55,3.655133376499413,5,0
+Cloudflare IPv4,twitch.tv,45.6,46.0,42,47,1.8547236990991407,5,0
+Cloudflare IPv4,zoom.us,50.2,47.0,47,61,5.455272678794342,5,0
+Cloudflare IPv4,nytimes.com,46.8,47.0,45,48,1.16619037896906,5,0
+Cloudflare IPv4,whatsapp.com,50.6,48.0,47,60,4.8,5,0
+Cloudflare IPv4,espn.com,53.0,48.0,46,74,10.583005244258363,5,0
+Cloudflare IPv4,bbc.com,58.8,48.0,47,103,22.112439937736404,5,0
+Cloudflare IPv4,twitter.com,52.8,47.0,46,76,11.617228585166085,5,0
+Cloudflare IPv4,pinterest.com,48.8,48.0,46,52,2.7129319932501073,5,0
+Cloudflare IPv4,ebay.com,47.6,47.0,46,51,1.8547236990991407,5,0
+Cloudflare IPv4,tiktok.com,74.8,48.0,46,183,54.11617133537811,5,0
+Cloudflare IPv4,imdb.com,46.8,47.0,46,48,0.7483314773547882,5,0
+Cloudflare IPv4,cnn.com,53.6,48.0,46,79,12.7216351150314,5,0
+Cloudflare IPv4,weather.com,47.4,46.0,45,52,2.4979991993593593,5,0
+Cloudflare IPv4,paypal.com,49.8,48.0,44,61,5.81033561853358,5,0
+Cloudflare IPv4,booking.com,82.2,48.0,47,219,68.4029239141135,5,0
+Cloudflare IPv4,wordpress.com,49.6,47.0,46,60,5.238320341483519,5,0
+Cloudflare IPv4,github.com,47.8,47.0,46,52,2.227105745132009,5,0
+Cloudflare IPv4,gitlab.com,46.4,47.0,42,48,2.244994432064365,5,0
+Cloudflare IPv4,airbnb.com,53.2,49.0,47,73,9.927738916792686,5,0
+Cloudflare IPv4,tumblr.com,77.0,48.0,47,192,57.508260276242055,5,0
+Cloudflare IPv4,files.pythonhosted.org,51.8,47.0,47,71,9.6,5,0
+Cloudflare IPv4,docker.com,53.6,49.0,46,74,10.287856919689348,5,0
+Cloudflare IPv4,pypi.org,47.4,47.0,47,49,0.7999999999999999,5,0
+Cloudflare IPv4,stackoverflow.com,46.2,46.0,45,47,0.7483314773547882,5,0
+Cloudflare IPv4,registry.npmjs.org,46.2,45.0,45,48,1.4696938456699067,5,0
+Cloudflare IPv4,npmjs.com,75.4,48.0,46,186,55.315820521800084,5,0
+Cloudflare IPv4,repo.maven.apache.org,53.6,49.0,47,73,9.789790600416334,5,0
+Cloudflare IPv4,rubygems.org,61.4,50.0,47,112,25.35034516530298,5,0
+Cloudflare IPv4,sourceforge.net,51.8,47.0,44,74,11.160645142642965,5,0
+Cloudflare IPv4,bitbucket.org,47.6,47.0,46,49,1.2000000000000002,5,0
+Cloudflare IPv4,cran.r-project.org,80.4,49.0,47,208,63.81723905027544,5,0
+Cloudflare IPv4,dev.to,48.8,49.0,47,52,1.8330302779823358,5,0
+Cloudflare IPv4,jetbrains.com,53.2,49.0,47,73,9.927738916792686,5,0
+Cloudflare IPv4,readthedocs.io,48.4,49.0,47,50,1.2,5,0
+Cloudflare IPv4,grafana.com,46.2,46.0,45,48,0.9797958971132711,5,0
+Cloudflare IPv4,anaconda.org,48.8,48.0,47,51,1.4696938456699067,5,0
+Cloudflare IPv4,prometheus.io,49.0,48.0,47,54,2.5298221281347035,5,0
+Cloudflare IPv4,godoc.org,49.8,48.0,46,59,4.707440918375928,5,0
+Cloudflare IPv4,cloudflare.com,47.6,47.0,46,50,1.3564659966250536,5,0
+Cloudflare IPv4,registry.terraform.io,55.6,48.0,48,84,14.22111106770494,5,0
+Cloudflare IPv4,circleci.com,46.8,46.0,46,49,1.16619037896906,5,0
+Cloudflare IPv4,travis-ci.com,48.6,48.0,47,51,1.3564659966250538,5,0
+Cloudflare IPv4,one.one.one.one,48.2,48.0,47,50,0.9797958971132712,5,0
+Cloudflare IPv4,cdn.cloudflare.net,47.4,47.0,47,48,0.4898979485566356,5,0
+Cloudflare IPv4,dns.google,46.8,47.0,46,48,0.7483314773547882,5,0
+Cloudflare IPv4,fastly.net,51.6,47.0,46,70,9.221713506718803,5,0
+Cloudflare IPv4,cloudfront.net,47.2,46.0,46,51,1.9390719429665317,5,0
+Cloudflare IPv4,opendns.com,51.4,49.0,48,60,4.5431266766402185,5,0
+Cloudflare IPv4,quad9.net,47.4,47.0,46,49,1.019803902718557,5,0
+Cloudflare IPv4,akamai.net,70.6,48.0,46,164,46.70588827974477,5,0
+Cloudflare IPv4,edgesuite.net,66.6,48.0,47,142,37.707293724158994,5,0
+Cloudflare IPv4,adguard.com,78.4,50.0,47,196,58.81700434398202,5,0
+Cloudflare IPv4,nextdns.io,50.0,47.0,47,60,5.059644256269407,5,0
+Cloudflare IPv4,cleanbrowsing.org,61.8,49.0,48,114,26.110534272588144,5,0
+Cloudflare IPv4,resolver.arpa,47.8,48.0,46,49,1.16619037896906,5,0
+Cloudflare IPv4,verisign.com,75.4,49.0,48,182,53.30515922497559,5,0
+Cloudflare IPv4,ultradns.com,77.0,47.0,46,196,59.50798265779138,5,0
+Cloudflare IPv4,nsone.net,53.6,47.0,45,82,14.235167719419396,5,0
+Cloudflare IPv4,level3.com,83.8,48.0,47,227,71.60279324160476,5,0
+Cloudflare IPv4,resolv.conf,48.8,48.0,47,54,2.6381811916545836,5,0
+Cloudflare IPv4,akamaihd.net,46.2,46.0,45,47,0.7483314773547882,5,0
+Cloudflare IPv4,akamai.com,70.8,48.0,46,165,47.105838279347076,5,0
+Cloudflare IPv4,edgekey.net,70.6,48.0,46,163,46.21082124351394,5,0
+Cloudflare IPv4,cachefly.net,48.6,48.0,47,50,1.2,5,0
+Cloudflare IPv4,dns.adguard-dns.com,47.2,48.0,45,48,1.16619037896906,5,0
+Cloudflare IPv4,zenedge.net,46.2,46.0,44,49,1.7204650534085253,5,0
+Cloudflare IPv4,he.net,46.8,47.0,45,49,1.3266499161421599,5,0
+Cloudflare IPv4,yandex.ru,46.2,46.0,45,47,0.7483314773547882,5,0
+Cloudflare IPv4,naver.com,59.2,48.0,45,106,23.45548976252681,5,0
+Cloudflare IPv4,jio.com,47.0,47.0,46,48,0.8944271909999159,5,0
+Cloudflare IPv4,baidu.com,46.8,47.0,46,48,0.7483314773547882,5,0
+Cloudflare IPv4,gov.uk,46.8,47.0,44,48,1.4696938456699067,5,0
+Cloudflare IPv4,stackpathdns.com,50.0,48.0,46,62,6.06630035524124,5,0
+Cloudflare IPv4,nic.in,47.8,47.0,43,54,3.54400902933387,5,0
+Cloudflare IPv4,zone.ug,47.2,47.0,46,49,0.9797958971132712,5,0
+Cloudflare IPv4,nic.coop,52.8,49.0,46,72,9.66229786334493,5,0
+Cloudflare IPv4,nic.cl,47.4,47.0,47,48,0.4898979485566356,5,0
+Cloudflare IPv4,nic.br,46.8,47.0,46,47,0.4,5,0
+Cloudflare IPv4,cern.ch,79.0,48.0,48,202,61.50121950010423,5,0
+Cloudflare IPv4,nic.cn,47.2,47.0,47,48,0.4,5,0
+Cloudflare IPv4,nic.af,47.4,47.0,47,48,0.4898979485566356,5,0
+Cloudflare IPv4,nic.ng,47.2,47.0,46,48,0.7483314773547882,5,0
+Cloudflare IPv4,sina.com.cn,47.4,47.0,46,51,1.8547236990991407,5,0
+Cloudflare IPv4,globo.com,47.6,48.0,47,48,0.4898979485566356,5,0
+Cloudflare IPv4,nic.ru,124.2,48.0,46,428,151.9136596886534,5,0
+Cloudflare IPv4,mail.ru,85.6,46.0,46,238,76.23542483648924,5,0
+Cloudflare IPv4,or.kr,47.2,47.0,46,48,0.7483314773547882,5,0
+Cloudflare IPv4,sapo.pt,115.8,49.0,47,386,135.10203551390336,5,0
+Cloudflare IPv4,nic.or.kr,46.2,47.0,44,47,1.16619037896906,5,0
+Cloudflare IPv4,ntt.com,75.0,48.0,45,180,52.60798418491246,5,0
+Cloudflare IPv4,rogers.com,77.0,47.0,42,201,62.04192131131982,5,0
+Cloudflare IPv4,telstra.com.au,177.2,48.0,47,696,259.4003855047251,5,0
+Cloudflare IPv4,bell.ca,101.4,47.0,46,318,108.30438587610384,5,0
+Cloudflare IPv4,kpn.com,121.8,48.0,44,421,149.6093579960826,5,0
+Cloudflare IPv4,proximus.be,113.2,48.0,45,365,126.02602905749272,5,0
+Cloudflare IPv4,iana.org,45.6,46.0,41,48,2.4166091947189146,5,0
+Cloudflare IPv4,root-servers.net,45.0,48.0,37,49,4.516635916254486,5,0
+Cloudflare IPv4,blackhole.webpagetest.org,44.2,46.0,37,48,3.9698866482558417,5,0
+Cloudflare IPv4,test.openresolver.com,43.8,42.0,41,48,3.059411708155671,5,0
+Cloudflare IPv4,myip.opendns.com,46.4,47.0,44,50,2.244994432064365,5,0
+Cloudflare IPv4,openstreetmap.fr,48.0,48.0,46,50,1.7888543819998317,5,0
+Cloudflare IPv4,whoami.akamai.net,47.0,47.0,39,53,4.560701700396552,5,0
+Cloudflare IPv4,example.edu,101.0,47.0,39,317,108.11845355904791,5,0
+Cloudflare IPv4,example.net,99.6,49.0,40,312,106.2574232700944,5,0
+Cloudflare IPv4,ip6.nl,48.4,48.0,47,51,1.3564659966250536,5,0
+Cloudflare IPv4,test-ipv6.com,103.2,48.0,47,322,109.40822638174883,5,0
+Cloudflare IPv4,torproject.org,45.2,45.0,41,50,2.925747767665559,5,0
+Cloudflare IPv4,xip.io,94.4,52.0,49,270,87.81024997117365,5,0
+Cloudflare IPv4,dnscrypt.info,46.8,48.0,39,54,5.2687759489277965,5,0
+Cloudflare IPv4,dnspython.org,51.6,50.0,47,60,4.923413450036469,5,0
+Cloudflare IPv4,plan99.net,49.2,50.0,46,52,2.039607805437114,5,0
+Cloudflare IPv4,openwrt.org,47.6,48.0,46,49,1.0198039027185568,5,0
+Cloudflare IPv4,labnbook.com,46.6,46.0,45,49,1.3564659966250538,5,0
+Cloudflare IPv4,publicsuffix.org,46.0,47.0,43,47,1.5491933384829668,5,0
+Cloudflare IPv4,archive.org,96.2,47.0,41,300,101.92428562418283,5,0
+Cloudflare IPv4,nlnetlabs.nl,80.6,48.0,46,214,66.70412281111265,5,0
+Cloudflare IPv4,nvlpubs.nist.gov,49.2,47.0,45,56,4.166533331199932,5,0
+Cloudflare IPv4,dl.acm.org,60.4,47.0,41,121,30.38157336281319,5,0
+Cloudflare IPv4,eprints.soton.ac.uk,46.4,46.0,43,50,2.244994432064365,5,0
+Cloudflare IPv4,rsdn.org,49.8,48.0,39,61,7.573638491504596,5,0
+Cloudflare IPv4,dnscheck.tools,45.0,44.0,40,49,3.521363372331802,5,0
+Cloudflare IPv4,checkmydns.net,47.0,47.0,41,51,3.521363372331802,5,0
+Cloudflare IPv4,dnsleaktest.com,92.4,48.0,45,271,89.33218904739769,5,0
+Cloudflare IPv4,ipinfo.io,47.0,45.0,43,57,5.0990195135927845,5,0
+Cloudflare IPv4,trace.test,47.0,47.0,44,49,1.8973665961010275,5,0
+Cloudflare IPv4,whatismyip.akamai.com,99.6,52.0,47,293,96.75866886227818,5,0
+Cloudflare IPv4,cloudping.info,47.4,47.0,46,49,1.0198039027185568,5,0
+Cloudflare IPv4,speed.cloudflare.com,49.8,50.0,46,54,2.9933259094191533,5,0
+Cloudflare IPv4,ping.pe,43.8,44.0,40,48,2.5612496949731396,5,0
+Cloudflare IPv4,bgp.he.net,46.0,47.0,43,48,2.0976176963403033,5,0
+Cloudflare IPv4,ping.eu,45.8,45.0,44,50,2.2271057451320084,5,0
+Cloudflare IPv4,iana.com,46.4,48.0,38,50,4.454211490264017,5,0
+Cloudflare IPv4,a.root-servers.net,46.8,47.0,44,49,1.7204650534085253,5,0
+Cloudflare IPv4,int,48.0,48.0,44,51,2.449489742783178,5,0
+Cloudflare IPv4,root-servers.org,44.2,46.0,37,47,3.7629775444453557,5,0
+Cloudflare IPv4,arpa,47.0,47.0,42,50,2.756809750418044,5,0
+Cloudflare IPv4,l.root-servers.net,47.0,47.0,46,48,0.6324555320336759,5,0
+Cloudflare IPv4,whois.iana.org,101.2,47.0,46,319,108.90252522324724,5,0
+Cloudflare IPv4,tld-list.com,51.8,52.0,45,61,5.418486873657627,5,0
+Cloudflare IPv6,google.com,46.2,47.0,41,49,2.7856776554368237,5,0
+Cloudflare IPv6,facebook.com,49.0,47.0,43,55,4.381780460041329,5,0
+Cloudflare IPv6,youtube.com,57.4,47.0,46,97,19.845402490249473,5,0
+Cloudflare IPv6,amazon.com,47.6,47.0,43,53,3.32264954516723,5,0
+Cloudflare IPv6,wikipedia.org,60.6,50.0,38,87,19.955951493226273,5,0
+Cloudflare IPv6,microsoft.com,56.2,48.0,41,84,15.354478174135387,5,0
+Cloudflare IPv6,apple.com,56.0,47.0,38,77,15.84929020492716,5,0
+Cloudflare IPv6,linkedin.com,66.2,49.0,44,102,25.03916931529479,5,0
+Cloudflare IPv6,bing.com,57.2,48.0,44,86,15.535765188750762,5,0
+Cloudflare IPv6,instagram.com,52.8,50.0,47,63,5.741080037762929,5,0
+Cloudflare IPv6,reddit.com,73.6,48.0,42,181,53.75723207160131,5,0
+Cloudflare IPv6,netflix.com,48.4,46.0,43,60,6.151422599691879,5,0
+Cloudflare IPv6,spotify.com,64.8,51.0,46,93,20.350921355064003,5,0
+Cloudflare IPv6,quora.com,59.6,55.0,48,91,16.057397049335236,5,0
+Cloudflare IPv6,twitch.tv,93.0,46.0,44,262,84.91878472988176,5,0
+Cloudflare IPv6,nytimes.com,60.0,49.0,47,91,17.064583206161235,5,0
+Cloudflare IPv6,zoom.us,102.0,49.0,44,269,86.00232554995243,5,0
+Cloudflare IPv6,bbc.com,48.4,48.0,47,51,1.3564659966250538,5,0
+Cloudflare IPv6,espn.com,71.2,48.0,45,162,45.499010978261936,5,0
+Cloudflare IPv6,twitter.com,56.6,48.0,40,86,17.24644890984808,5,0
+Cloudflare IPv6,whatsapp.com,47.6,47.0,45,53,2.9393876913398134,5,0
+Cloudflare IPv6,tiktok.com,92.4,69.0,49,207,58.6296853138408,5,0
+Cloudflare IPv6,weather.com,78.8,51.0,46,183,52.57147515525887,5,0
+Cloudflare IPv6,booking.com,99.4,91.0,44,179,43.875277776898464,5,0
+Cloudflare IPv6,cnn.com,97.0,90.0,65,165,36.160752204565654,5,0
+Cloudflare IPv6,paypal.com,101.4,93.0,47,202,53.45128623335457,5,0
+Cloudflare IPv6,wordpress.com,89.4,78.0,48,165,39.95297235500758,5,0
+Cloudflare IPv6,ebay.com,107.4,104.0,49,168,52.14057920660261,5,0
+Cloudflare IPv6,pinterest.com,85.6,53.0,48,165,45.58771764411989,5,0
+Cloudflare IPv6,tumblr.com,62.6,53.0,47,91,17.234848418248422,5,0
+Cloudflare IPv6,airbnb.com,49.8,49.0,46,53,2.7856776554368237,5,0
+Cloudflare IPv6,stackoverflow.com,82.4,74.0,41,162,43.18610887773984,5,0
+Cloudflare IPv6,docker.com,91.4,97.0,46,162,42.972549377480505,5,0
+Cloudflare IPv6,github.com,83.6,67.0,43,176,49.090121205798624,5,0
+Cloudflare IPv6,gitlab.com,77.4,55.0,47,183,52.92107330733193,5,0
+Cloudflare IPv6,registry.npmjs.org,50.2,48.0,47,61,5.418486873657626,5,0
+Cloudflare IPv6,files.pythonhosted.org,52.6,48.0,40,80,14.051334456200237,5,0
+Cloudflare IPv6,pypi.org,50.4,47.0,45,67,8.333066662399863,5,0
+Cloudflare IPv6,npmjs.com,47.8,48.0,46,49,0.9797958971132712,5,0
+Cloudflare IPv6,cran.r-project.org,53.8,50.0,47,67,7.730459236035076,5,0
+Cloudflare IPv6,bitbucket.org,53.6,51.0,45,74,10.461357464497617,5,0
+Cloudflare IPv6,imdb.com,55.4,47.0,43,71,12.026637102698325,5,0
+Cloudflare IPv6,dev.to,51.2,47.0,46,69,8.930845424706442,5,0
+Cloudflare IPv6,sourceforge.net,47.0,47.0,44,50,2.280350850198276,5,0
+Cloudflare IPv6,jetbrains.com,48.4,47.0,42,58,5.4626001134990645,5,0
+Cloudflare IPv6,readthedocs.io,55.4,48.0,47,82,13.484806264830057,5,0
+Cloudflare IPv6,repo.maven.apache.org,47.4,48.0,46,48,0.7999999999999999,5,0
+Cloudflare IPv6,anaconda.org,47.6,48.0,46,49,1.019803902718557,5,0
+Cloudflare IPv6,registry.terraform.io,50.2,50.0,46,55,2.8565713714171403,5,0
+Cloudflare IPv6,rubygems.org,49.8,48.0,42,65,7.909487973314076,5,0
+Cloudflare IPv6,godoc.org,51.4,48.0,47,67,7.812809993849845,5,0
+Cloudflare IPv6,grafana.com,47.4,47.0,45,50,1.854723699099141,5,0
+Cloudflare IPv6,travis-ci.com,48.2,48.0,46,52,2.227105745132009,5,0
+Cloudflare IPv6,cdn.cloudflare.net,46.4,47.0,45,48,1.2,5,0
+Cloudflare IPv6,cloudflare.com,56.8,47.0,47,95,19.103926298015285,5,0
+Cloudflare IPv6,fastly.net,52.2,47.0,47,71,9.431860898041277,5,0
+Cloudflare IPv6,one.one.one.one,49.4,48.0,46,58,4.363484845854286,5,0
+Cloudflare IPv6,circleci.com,46.8,46.0,45,49,1.4696938456699067,5,0
+Cloudflare IPv6,prometheus.io,49.0,48.0,47,52,1.7888543819998317,5,0
+Cloudflare IPv6,cloudfront.net,55.0,51.0,47,77,11.15347479487895,5,0
+Cloudflare IPv6,dns.google,49.8,46.0,45,67,8.611620056644394,5,0
+Cloudflare IPv6,opendns.com,47.2,46.0,45,53,2.993325909419153,5,0
+Cloudflare IPv6,edgesuite.net,47.8,48.0,46,49,1.16619037896906,5,0
+Cloudflare IPv6,quad9.net,46.0,47.0,42,48,2.0976176963403033,5,0
+Cloudflare IPv6,akamai.net,47.2,47.0,47,48,0.4,5,0
+Cloudflare IPv6,nextdns.io,48.2,49.0,45,50,1.7204650534085253,5,0
+Cloudflare IPv6,adguard.com,49.2,49.0,46,51,1.8330302779823362,5,0
+Cloudflare IPv6,resolver.arpa,47.2,46.0,42,54,3.919183588453085,5,0
+Cloudflare IPv6,cleanbrowsing.org,47.8,48.0,45,51,1.9390719429665315,5,0
+Cloudflare IPv6,verisign.com,48.2,48.0,47,51,1.4696938456699067,5,0
+Cloudflare IPv6,ultradns.com,47.4,48.0,43,50,2.3323807579381204,5,0
+Cloudflare IPv6,nsone.net,49.0,48.0,46,55,3.0983866769659336,5,0
+Cloudflare IPv6,resolv.conf,47.2,47.0,46,48,0.7483314773547882,5,0
+Cloudflare IPv6,level3.com,47.2,47.0,46,49,1.16619037896906,5,0
+Cloudflare IPv6,akamaihd.net,46.8,48.0,44,48,1.5999999999999999,5,0
+Cloudflare IPv6,edgekey.net,48.6,48.0,46,53,2.4166091947189146,5,0
+Cloudflare IPv6,akamai.com,70.0,48.0,45,162,46.01304162952064,5,0
+Cloudflare IPv6,dns.adguard-dns.com,47.4,47.0,46,51,1.8547236990991407,5,0
+Cloudflare IPv6,cachefly.net,46.0,47.0,41,48,2.6076809620810595,5,0
+Cloudflare IPv6,he.net,45.8,46.0,43,47,1.4696938456699067,5,0
+Cloudflare IPv6,baidu.com,46.6,47.0,45,47,0.7999999999999999,5,0
+Cloudflare IPv6,zenedge.net,47.2,47.0,44,51,2.315167380558045,5,0
+Cloudflare IPv6,stackpathdns.com,48.0,49.0,44,50,2.0976176963403033,5,0
+Cloudflare IPv6,naver.com,47.0,47.0,46,48,0.8944271909999159,5,0
+Cloudflare IPv6,gov.uk,45.2,46.0,42,48,2.7129319932501073,5,0
+Cloudflare IPv6,nic.in,46.4,47.0,41,51,3.555277766926235,5,0
+Cloudflare IPv6,yandex.ru,49.0,48.0,47,53,2.0976176963403033,5,0
+Cloudflare IPv6,jio.com,47.6,47.0,46,51,1.7435595774162693,5,0
+Cloudflare IPv6,zone.ug,46.0,47.0,43,49,2.1908902300206643,5,0
+Cloudflare IPv6,cern.ch,45.2,44.0,43,50,2.4819347291981715,5,0
+Cloudflare IPv6,nic.br,45.8,47.0,41,48,2.6381811916545836,5,0
+Cloudflare IPv6,nic.coop,47.2,47.0,45,50,1.5999999999999999,5,0
+Cloudflare IPv6,nic.cl,48.4,48.0,46,51,1.854723699099141,5,0
+Cloudflare IPv6,nic.ru,47.8,48.0,47,49,0.7483314773547882,5,0
+Cloudflare IPv6,nic.af,46.6,47.0,43,49,2.0591260281974,5,0
+Cloudflare IPv6,nic.cn,47.2,47.0,46,49,0.9797958971132712,5,0
+Cloudflare IPv6,nic.ng,47.0,47.0,46,48,0.6324555320336759,5,0
+Cloudflare IPv6,sina.com.cn,88.8,48.0,42,262,86.63117221878046,5,0
+Cloudflare IPv6,mail.ru,47.2,47.0,45,49,1.3266499161421599,5,0
+Cloudflare IPv6,globo.com,45.6,46.0,42,48,2.0591260281974,5,0
+Cloudflare IPv6,or.kr,47.8,48.0,46,49,0.9797958971132712,5,0
+Cloudflare IPv6,nic.or.kr,48.6,48.0,48,51,1.2000000000000002,5,0
+Cloudflare IPv6,rogers.com,46.6,47.0,45,48,1.019803902718557,5,0
+Cloudflare IPv6,sapo.pt,47.6,47.0,46,51,1.8547236990991407,5,0
+Cloudflare IPv6,ntt.com,48.2,47.0,46,54,2.9257477676655586,5,0
+Cloudflare IPv6,telstra.com.au,47.2,48.0,42,50,2.7856776554368237,5,0
+Cloudflare IPv6,bell.ca,47.6,47.0,46,50,1.3564659966250536,5,0
+Cloudflare IPv6,proximus.be,48.0,48.0,46,50,1.2649110640673518,5,0
+Cloudflare IPv6,kpn.com,45.4,46.0,43,48,1.7435595774162693,5,0
+Cloudflare IPv6,test-ipv6.com,46.0,47.0,43,47,1.5491933384829668,5,0
+Cloudflare IPv6,iana.org,45.6,46.0,42,48,1.9595917942265426,5,0
+Cloudflare IPv6,example.edu,48.6,48.0,47,51,1.3564659966250536,5,0
+Cloudflare IPv6,blackhole.webpagetest.org,47.0,47.0,46,49,1.0954451150103321,5,0
+Cloudflare IPv6,test.openresolver.com,46.8,47.0,43,49,2.0396078054371136,5,0
+Cloudflare IPv6,example.net,47.6,47.0,46,50,1.3564659966250538,5,0
+Cloudflare IPv6,root-servers.net,47.4,48.0,45,49,1.624807680927192,5,0
+Cloudflare IPv6,ip6.nl,48.0,48.0,46,50,1.4142135623730951,5,0
+Cloudflare IPv6,whoami.akamai.net,45.0,45.0,43,47,1.4142135623730951,5,0
+Cloudflare IPv6,myip.opendns.com,46.4,47.0,41,49,2.8,5,0
+Cloudflare IPv6,torproject.org,47.6,48.0,45,50,1.8547236990991407,5,0
+Cloudflare IPv6,xip.io,48.2,49.0,46,49,1.16619037896906,5,0
+Cloudflare IPv6,dnscrypt.info,46.4,46.0,46,47,0.4898979485566356,5,0
+Cloudflare IPv6,plan99.net,46.2,46.0,45,47,0.7483314773547882,5,0
+Cloudflare IPv6,openstreetmap.fr,79.6,48.0,47,205,62.707575299958776,5,0
+Cloudflare IPv6,dnspython.org,53.4,49.0,46,62,7.08801805866774,5,0
+Cloudflare IPv6,publicsuffix.org,46.2,46.0,45,48,0.9797958971132711,5,0
+Cloudflare IPv6,nlnetlabs.nl,47.6,47.0,45,50,1.7435595774162693,5,0
+Cloudflare IPv6,archive.org,47.6,48.0,47,48,0.4898979485566356,5,0
+Cloudflare IPv6,openwrt.org,46.8,47.0,43,49,2.227105745132009,5,0
+Cloudflare IPv6,labnbook.com,46.4,46.0,46,48,0.7999999999999999,5,0
+Cloudflare IPv6,dl.acm.org,47.8,47.0,46,52,2.227105745132009,5,0
+Cloudflare IPv6,nvlpubs.nist.gov,46.6,47.0,44,48,1.4966629547095767,5,0
+Cloudflare IPv6,rsdn.org,46.6,47.0,44,48,1.3564659966250536,5,0
+Cloudflare IPv6,dnscheck.tools,48.0,47.0,47,50,1.2649110640673518,5,0
+Cloudflare IPv6,checkmydns.net,47.0,47.0,47,47,0.0,5,0
+Cloudflare IPv6,dnsleaktest.com,48.4,48.0,47,50,1.019803902718557,5,0
+Cloudflare IPv6,eprints.soton.ac.uk,46.6,47.0,45,47,0.7999999999999999,5,0
+Cloudflare IPv6,ipinfo.io,46.6,47.0,45,48,1.019803902718557,5,0
+Cloudflare IPv6,whatismyip.akamai.com,49.2,48.0,46,57,4.069397989875161,5,0
+Cloudflare IPv6,trace.test,47.2,48.0,44,48,1.5999999999999999,5,0
+Cloudflare IPv6,cloudping.info,78.0,48.0,43,204,63.03332451965389,5,0
+Cloudflare IPv6,ping.eu,47.2,48.0,44,49,1.7204650534085253,5,0
+Cloudflare IPv6,ping.pe,47.4,47.0,47,49,0.7999999999999999,5,0
+Cloudflare IPv6,bgp.he.net,47.0,47.0,43,50,2.280350850198276,5,0
+Cloudflare IPv6,speed.cloudflare.com,47.8,48.0,45,50,1.7204650534085253,5,0
+Cloudflare IPv6,root-servers.org,47.6,47.0,46,52,2.244994432064365,5,0
+Cloudflare IPv6,a.root-servers.net,46.4,46.0,45,48,1.0198039027185568,5,0
+Cloudflare IPv6,l.root-servers.net,48.6,49.0,45,53,2.65329983228432,5,0
+Cloudflare IPv6,iana.com,46.8,46.0,45,49,1.4696938456699067,5,0
+Cloudflare IPv6,arpa,46.0,47.0,42,50,3.03315017762062,5,0
+Cloudflare IPv6,int,46.2,47.0,44,48,1.4696938456699067,5,0
+Quad9 IPv4,facebook.com,36.4,30.0,28,58,11.128342194594845,5,0
+Cloudflare IPv6,tld-list.com,48.8,49.0,47,51,1.3266499161421599,5,0
+Quad9 IPv4,google.com,44.4,32.0,30,90,23.01825362619849,5,0
+Quad9 IPv4,amazon.com,51.6,39.0,33,105,26.993332510084784,5,0
+Cloudflare IPv6,whois.iana.org,104.0,51.0,46,323,109.52077428506429,5,0
+Quad9 IPv4,youtube.com,47.8,46.0,28,85,20.143485299222675,5,0
+Quad9 IPv4,wikipedia.org,31.6,31.0,27,36,3.4409301068170506,5,0
+Quad9 IPv4,apple.com,33.6,33.0,32,35,1.2,5,0
+Quad9 IPv4,microsoft.com,35.4,35.0,31,40,3.0066592756745814,5,0
+Quad9 IPv4,bing.com,37.2,35.0,32,51,6.997142273814361,5,0
+Quad9 IPv4,instagram.com,33.6,32.0,31,39,2.870540018881465,5,0
+Quad9 IPv4,linkedin.com,39.4,36.0,30,59,10.248902380255165,5,0
+Quad9 IPv4,reddit.com,31.8,31.0,29,34,1.9390719429665317,5,0
+Quad9 IPv4,twitch.tv,31.4,32.0,28,35,2.33238075793812,5,0
+Quad9 IPv4,netflix.com,32.4,31.0,30,36,2.5768197453450252,5,0
+Quad9 IPv4,quora.com,33.4,30.0,28,40,5.425863986500215,5,0
+Quad9 IPv4,spotify.com,32.4,31.0,30,36,2.5768197453450252,5,0
+Quad9 IPv4,zoom.us,33.4,34.0,32,34,0.7999999999999999,5,0
+Quad9 IPv4,nytimes.com,33.8,32.0,30,42,4.308131845707604,5,0
+Quad9 IPv4,bbc.com,81.8,34.0,27,274,96.27128336113526,5,0
+Quad9 IPv4,espn.com,52.6,34.0,31,130,38.73809494541517,5,0
+Quad9 IPv4,whatsapp.com,33.4,35.0,30,36,2.4166091947189146,5,0
+Quad9 IPv4,twitter.com,31.8,32.0,29,35,1.9390719429665317,5,0
+Quad9 IPv4,pinterest.com,32.0,31.0,30,37,2.6076809620810595,5,0
+Quad9 IPv4,imdb.com,31.4,32.0,27,34,2.65329983228432,5,0
+Quad9 IPv4,tiktok.com,32.4,31.0,30,36,2.244994432064365,5,0
+Quad9 IPv4,cnn.com,65.4,38.0,34,168,51.58914614528912,5,0
+Quad9 IPv4,ebay.com,36.2,32.0,30,50,7.277362159464101,5,0
+Quad9 IPv4,booking.com,36.6,38.0,30,44,5.71314274283428,5,0
+Quad9 IPv4,wordpress.com,36.2,34.0,30,45,5.528109984434102,5,0
+Quad9 IPv4,github.com,34.8,33.0,32,42,3.655133376499413,5,0
+Quad9 IPv4,stackoverflow.com,33.8,33.0,31,38,2.785677655436824,5,0
+Quad9 IPv4,airbnb.com,37.8,32.0,28,66,14.204224723651762,5,0
+Quad9 IPv4,paypal.com,32.2,33.0,30,34,1.4696938456699067,5,0
+Quad9 IPv4,weather.com,39.4,31.0,30,71,15.856859714331838,5,0
+Quad9 IPv4,tumblr.com,34.2,31.0,31,44,5.03587132480567,5,0
+Quad9 IPv4,docker.com,37.4,33.0,27,48,8.867919710958146,5,0
+Quad9 IPv4,gitlab.com,33.0,32.0,28,43,5.215361924162119,5,0
+Quad9 IPv4,files.pythonhosted.org,35.0,30.0,29,49,7.563068160475615,5,0
+Quad9 IPv4,rubygems.org,31.4,31.0,31,32,0.4898979485566356,5,0
+Quad9 IPv4,registry.npmjs.org,33.6,33.0,31,39,2.8000000000000003,5,0
+Quad9 IPv4,repo.maven.apache.org,33.4,33.0,31,37,2.0591260281974,5,0
+Quad9 IPv4,npmjs.com,33.4,31.0,30,41,4.029888335921977,5,0
+Quad9 IPv4,pypi.org,31.8,32.0,30,34,1.32664991614216,5,0
+Quad9 IPv4,bitbucket.org,34.8,33.0,31,42,3.815756805667783,5,0
+Quad9 IPv4,dev.to,32.8,31.0,30,37,2.7129319932501073,5,0
+Quad9 IPv4,readthedocs.io,33.2,33.0,32,36,1.469693845669907,5,0
+Quad9 IPv4,jetbrains.com,33.0,32.0,31,37,2.0976176963403033,5,0
+Quad9 IPv4,sourceforge.net,32.4,31.0,29,36,2.65329983228432,5,0
+Quad9 IPv4,godoc.org,34.8,33.0,30,40,4.354308211415448,5,0
+Quad9 IPv4,cran.r-project.org,86.2,30.0,27,313,113.40793623023039,5,0
+Quad9 IPv4,registry.terraform.io,31.0,30.0,30,35,2.0,5,0
+Quad9 IPv4,anaconda.org,35.6,32.0,31,48,6.468384651518492,5,0
+Quad9 IPv4,grafana.com,40.0,33.0,26,78,19.172897537930986,5,0
+Quad9 IPv4,prometheus.io,42.2,34.0,30,81,19.5386795869117,5,0
+Quad9 IPv4,circleci.com,36.0,33.0,28,49,7.238784428341543,5,0
+Quad9 IPv4,cloudflare.com,34.0,34.0,30,40,3.521363372331802,5,0
+Quad9 IPv4,cdn.cloudflare.net,32.2,31.0,29,40,3.9698866482558417,5,0
+Quad9 IPv4,one.one.one.one,33.2,32.0,30,40,3.54400902933387,5,0
+Quad9 IPv4,travis-ci.com,45.4,31.0,30,104,29.30938416275579,5,0
+Quad9 IPv4,fastly.net,33.6,31.0,30,44,5.238320341483518,5,0
+Quad9 IPv4,cloudfront.net,36.4,34.0,27,51,8.114185110040317,5,0
+Quad9 IPv4,dns.google,30.4,30.0,30,32,0.7999999999999999,5,0
+Quad9 IPv4,opendns.com,35.4,36.0,30,40,3.8781438859330635,5,0
+Quad9 IPv4,edgesuite.net,32.6,30.0,26,44,6.118823416311342,5,0
+Quad9 IPv4,nextdns.io,32.8,32.0,29,37,2.638181191654584,5,0
+Quad9 IPv4,akamai.net,32.4,31.0,30,37,2.727636339397171,5,0
+Quad9 IPv4,cleanbrowsing.org,74.0,31.0,30,244,85.0105875759014,5,0
+Quad9 IPv4,quad9.net,31.8,31.0,30,35,1.7204650534085253,5,0
+Quad9 IPv4,adguard.com,35.4,33.0,30,44,5.043808085167396,5,0
+Quad9 IPv4,resolver.arpa,35.0,35.0,31,40,2.898275349237888,5,0
+Quad9 IPv4,verisign.com,33.4,35.0,27,39,4.31740662898458,5,0
+Quad9 IPv4,ultradns.com,36.4,30.0,29,61,12.338557452149745,5,0
+Quad9 IPv4,nsone.net,44.6,35.0,29,87,21.50906785520935,5,0
+Quad9 IPv4,level3.com,77.0,30.0,22,263,93.17510397096426,5,0
+Quad9 IPv4,resolv.conf,33.0,31.0,31,37,2.5298221281347035,5,0
+Quad9 IPv4,akamaihd.net,35.8,33.0,30,48,6.554387843269576,5,0
+Quad9 IPv4,edgekey.net,39.8,31.0,27,74,17.33666634621547,5,0
+Quad9 IPv4,dns.adguard-dns.com,32.6,33.0,30,35,1.854723699099141,5,0
+Quad9 IPv4,akamai.com,41.2,32.0,29,80,19.466894975830122,5,0
+Quad9 IPv4,cachefly.net,33.4,33.0,30,39,3.3823069050575527,5,0
+Quad9 IPv4,stackpathdns.com,35.2,34.0,26,47,6.910861017268398,5,0
+Quad9 IPv4,zenedge.net,35.6,35.0,32,41,3.1999999999999997,5,0
+Quad9 IPv4,he.net,30.4,31.0,28,32,1.3564659966250536,5,0
+Quad9 IPv4,baidu.com,58.4,32.0,30,165,53.316413982937746,5,0
+Quad9 IPv4,yandex.ru,35.0,34.0,30,43,4.33589667773576,5,0
+Quad9 IPv4,jio.com,33.6,30.0,27,43,5.9531504264548865,5,0
+Quad9 IPv4,nic.in,32.6,32.0,31,34,1.2,5,0
+Quad9 IPv4,naver.com,62.8,35.0,33,175,56.12984945641668,5,0
+Quad9 IPv4,zone.ug,32.2,33.0,30,34,1.4696938456699067,5,0
+Quad9 IPv4,gov.uk,33.4,31.0,29,45,5.986651818838306,5,0
+Quad9 IPv4,nic.coop,36.0,34.0,30,42,4.69041575982343,5,0
+Quad9 IPv4,nic.cl,33.4,32.0,30,41,3.9293765408777004,5,0
+Quad9 IPv4,cern.ch,35.8,33.0,29,45,5.844655678480983,5,0
+Quad9 IPv4,nic.cn,33.0,31.0,28,44,5.621387729022079,5,0
+Quad9 IPv4,nic.ng,30.8,30.0,28,35,2.481934729198171,5,0
+Quad9 IPv4,nic.br,31.6,32.0,30,33,1.019803902718557,5,0
+Quad9 IPv4,globo.com,33.8,34.0,30,38,3.370459909270543,5,0
+Quad9 IPv4,nic.af,31.4,33.0,26,34,2.870540018881465,5,0
+Quad9 IPv4,nic.ru,69.6,34.0,27,219,74.75185616424517,5,0
+Quad9 IPv4,mail.ru,110.8,31.0,23,438,163.63422624866718,5,0
+Quad9 IPv4,nic.or.kr,34.2,32.0,28,46,6.209669878504009,5,0
+Quad9 IPv4,or.kr,40.8,42.0,30,47,6.368673331236263,5,0
+Quad9 IPv4,rogers.com,38.4,31.0,28,66,14.374978260853128,5,0
+Quad9 IPv4,sapo.pt,93.8,33.0,27,334,120.19550740356314,5,0
+Quad9 IPv4,telstra.com.au,76.6,37.0,27,243,83.45681518006782,5,0
+Quad9 IPv4,ntt.com,101.0,31.0,28,378,138.5409686699209,5,0
+Quad9 IPv4,bell.ca,76.8,35.0,30,248,85.62569707745449,5,0
+Quad9 IPv4,kpn.com,77.8,34.0,33,246,84.16269957647508,5,0
+Quad9 IPv4,blackhole.webpagetest.org,32.6,33.0,28,36,2.65329983228432,5,0
+Quad9 IPv4,iana.org,32.4,31.0,30,39,3.3823069050575523,5,0
+Quad9 IPv4,example.net,82.6,33.0,26,289,103.23294047928692,5,0
+Quad9 IPv4,example.edu,80.4,30.0,30,279,99.30679735043317,5,0
+Quad9 IPv4,proximus.be,110.2,31.0,30,426,157.90300820440376,5,0
+Quad9 IPv4,test.openresolver.com,35.8,36.0,31,42,4.019950248448357,5,0
+Quad9 IPv4,myip.opendns.com,36.4,34.0,29,50,7.28285658241325,5,0
+Quad9 IPv4,root-servers.net,34.2,32.0,30,46,5.9464274989274015,5,0
+Quad9 IPv4,ip6.nl,36.2,32.0,31,47,6.11228271597445,5,0
+Quad9 IPv4,openstreetmap.fr,39.0,35.0,30,53,8.414273587185052,5,0
+Quad9 IPv4,whoami.akamai.net,33.4,33.0,30,38,2.6532998322843198,5,0
+Quad9 IPv4,xip.io,64.0,31.0,30,188,62.10636038281425,5,0
+Quad9 IPv4,dnscrypt.info,31.6,30.0,27,40,4.498888751680798,5,0
+Quad9 IPv4,torproject.org,143.4,31.0,27,597,226.80617275550506,5,0
+Quad9 IPv4,plan99.net,31.6,31.0,27,36,3.4409301068170506,5,0
+Quad9 IPv4,dnspython.org,37.0,32.0,30,57,10.13903348450926,5,0
+Quad9 IPv4,publicsuffix.org,33.6,32.0,32,39,2.727636339397171,5,0
+Quad9 IPv4,openwrt.org,31.2,31.0,30,32,0.7483314773547883,5,0
+Quad9 IPv4,labnbook.com,32.4,31.0,31,35,1.7435595774162693,5,0
+Quad9 IPv4,archive.org,32.0,32.0,30,33,1.0954451150103321,5,0
+Quad9 IPv4,nlnetlabs.nl,54.0,29.0,27,154,50.047976982091896,5,0
+Quad9 IPv4,dl.acm.org,38.2,38.0,31,48,6.337191807101944,5,0
+Quad9 IPv4,sina.com.cn,33.0,33.0,30,37,2.280350850198276,5,0
+Quad9 IPv4,test-ipv6.com,63.6,38.0,29,181,58.80340126217191,5,0
+Quad9 IPv4,nvlpubs.nist.gov,29.8,31.0,16,38,7.4404300950953095,5,0
+Quad9 IPv4,eprints.soton.ac.uk,33.0,32.0,29,36,2.6832815729997477,5,0
+Quad9 IPv4,dnscheck.tools,31.6,31.0,29,35,2.154065922853802,5,0
+Quad9 IPv4,rsdn.org,37.8,30.0,29,51,9.987992791347018,5,0
+Quad9 IPv4,checkmydns.net,30.2,30.0,30,31,0.39999999999999997,5,0
+Quad9 IPv4,dnsleaktest.com,103.4,31.0,30,383,139.86936762565276,5,0
+Quad9 IPv4,ipinfo.io,34.8,35.0,34,36,0.7483314773547882,5,0
+Quad9 IPv4,speed.cloudflare.com,33.6,33.0,32,35,1.2,5,0
+Quad9 IPv4,trace.test,37.8,38.0,34,43,3.4871191548325386,5,0
+Quad9 IPv4,bgp.he.net,34.0,32.0,21,48,8.87693640846886,5,0
+Quad9 IPv4,whatismyip.akamai.com,36.8,34.0,32,47,5.491812087098392,5,0
+Quad9 IPv4,ping.pe,38.2,38.0,33,47,5.192301994298868,5,0
+Quad9 IPv4,cloudping.info,33.8,35.0,24,40,5.30659966456864,5,0
+Quad9 IPv4,ping.eu,32.8,33.0,31,35,1.3266499161421599,5,0
+Quad9 IPv4,a.root-servers.net,33.4,32.0,30,41,3.9293765408777004,5,0
+Quad9 IPv4,iana.com,32.6,31.0,22,44,7.255342858886822,5,0
+Quad9 IPv4,l.root-servers.net,31.8,32.0,30,34,1.3266499161421599,5,0
+Quad9 IPv4,int,30.4,31.0,25,35,3.2,5,0
+Quad9 IPv4,root-servers.org,33.4,33.0,25,40,5.314132102234569,5,0
+Quad9 IPv4,arpa,37.0,31.0,29,58,11.009087155618309,5,0
+Quad9 IPv4,tld-list.com,31.8,32.0,27,39,4.261455150532504,5,0
+Quad9 IPv6,facebook.com,30.6,30.0,28,33,1.7435595774162693,5,0
+Quad9 IPv6,google.com,31.4,31.0,26,36,4.079215610874228,5,0
+Quad9 IPv6,youtube.com,32.6,33.0,26,36,3.6660605559646724,5,0
+Quad9 IPv6,wikipedia.org,35.0,34.0,33,39,2.0976176963403033,5,0
+Quad9 IPv4,whois.iana.org,80.8,32.0,28,277,98.13337862317795,5,0
+Quad9 IPv6,apple.com,33.6,34.0,27,39,4.586937976471886,5,0
+Quad9 IPv6,amazon.com,33.6,33.0,31,39,2.8,5,0
+Quad9 IPv6,microsoft.com,35.0,32.0,29,50,7.615773105863909,5,0
+Quad9 IPv6,linkedin.com,30.4,33.0,23,33,3.8781438859330635,5,0
+Quad9 IPv6,bing.com,30.4,31.0,26,33,2.4166091947189146,5,0
+Quad9 IPv6,instagram.com,32.8,33.0,31,36,1.8330302779823358,5,0
+Quad9 IPv6,reddit.com,34.8,35.0,33,37,1.5999999999999999,5,0
+Quad9 IPv6,netflix.com,30.6,31.0,27,33,2.0591260281974,5,0
+Quad9 IPv6,spotify.com,31.8,31.0,30,35,1.7204650534085253,5,0
+Quad9 IPv6,quora.com,33.8,34.0,29,39,3.3105890714493698,5,0
+Quad9 IPv6,twitch.tv,30.6,33.0,20,35,5.388877434122992,5,0
+Quad9 IPv6,zoom.us,30.4,31.0,26,34,2.727636339397171,5,0
+Quad9 IPv6,bbc.com,36.8,31.0,28,64,13.644046320648432,5,0
+Quad9 IPv6,twitter.com,33.4,33.0,30,37,2.4166091947189146,5,0
+Quad9 IPv6,pinterest.com,34.4,33.0,29,40,4.758150901348127,5,0
+Quad9 IPv6,whatsapp.com,34.0,34.0,28,40,4.0,5,0
+Quad9 IPv6,tiktok.com,33.0,33.0,29,37,3.1622776601683795,5,0
+Quad9 IPv6,nytimes.com,67.4,30.0,26,217,74.92823232934299,5,0
+Quad9 IPv6,ebay.com,31.2,32.0,26,33,2.6381811916545836,5,0
+Quad9 IPv6,espn.com,207.4,36.0,30,900,346.3083019507329,5,0
+Quad9 IPv6,booking.com,32.2,32.0,26,38,3.919183588453085,5,0
+Quad9 IPv6,imdb.com,33.2,33.0,31,37,2.227105745132009,5,0
+Quad9 IPv6,cnn.com,34.2,33.0,25,40,5.5641710972974225,5,0
+Quad9 IPv6,wordpress.com,32.8,32.0,31,37,2.1354156504062622,5,0
+Quad9 IPv6,paypal.com,45.2,33.0,30,98,26.46809400013533,5,0
+Quad9 IPv6,weather.com,30.8,31.0,30,31,0.4,5,0
+Quad9 IPv6,gitlab.com,32.8,31.0,29,40,3.9698866482558417,5,0
+Quad9 IPv6,airbnb.com,47.0,34.0,30,102,27.568097504180443,5,0
+Quad9 IPv6,tumblr.com,33.0,32.0,31,37,2.280350850198276,5,0
+Quad9 IPv6,docker.com,32.8,31.0,30,40,3.655133376499413,5,0
+Quad9 IPv6,pypi.org,30.2,31.0,27,33,2.315167380558045,5,0
+Quad9 IPv6,files.pythonhosted.org,32.2,32.0,30,35,1.7204650534085253,5,0
+Quad9 IPv6,stackoverflow.com,31.6,31.0,30,34,1.3564659966250538,5,0
+Quad9 IPv6,github.com,34.2,32.0,31,38,3.1240998703626617,5,0
+Quad9 IPv6,npmjs.com,33.4,33.0,32,36,1.4966629547095767,5,0
+Quad9 IPv6,registry.npmjs.org,34.2,33.0,31,41,3.7094473981982814,5,0
+Quad9 IPv6,rubygems.org,33.4,33.0,32,36,1.3564659966250538,5,0
+Quad9 IPv6,repo.maven.apache.org,32.6,33.0,28,35,2.4166091947189146,5,0
+Quad9 IPv6,bitbucket.org,35.0,34.0,32,40,2.6832815729997477,5,0
+Quad9 IPv6,dev.to,33.8,33.0,30,41,3.7629775444453557,5,0
+Quad9 IPv6,sourceforge.net,35.8,34.0,32,46,5.230678732248808,5,0
+Quad9 IPv6,jetbrains.com,38.0,39.0,32,45,4.898979485566356,5,0
+Quad9 IPv6,readthedocs.io,33.4,33.0,31,37,2.0591260281974,5,0
+Quad9 IPv6,grafana.com,33.6,33.0,31,38,2.4166091947189146,5,0
+Quad9 IPv6,anaconda.org,30.2,27.0,22,42,7.05407683541936,5,0
+Quad9 IPv6,godoc.org,35.6,34.0,33,41,3.0724582991474434,5,0
+Quad9 IPv6,prometheus.io,35.6,33.0,32,44,4.409081537009721,5,0
+Quad9 IPv6,registry.terraform.io,35.0,34.0,31,43,4.242640687119285,5,0
+Quad9 IPv6,circleci.com,36.0,34.0,32,47,5.549774770204643,5,0
+Quad9 IPv6,travis-ci.com,34.6,32.0,31,44,4.8,5,0
+Quad9 IPv6,cloudflare.com,32.6,33.0,31,34,1.3564659966250536,5,0
+Quad9 IPv6,cran.r-project.org,32.0,33.0,29,33,1.5491933384829668,5,0
+Quad9 IPv6,cdn.cloudflare.net,30.8,32.0,24,34,3.54400902933387,5,0
+Quad9 IPv6,cloudfront.net,31.4,31.0,27,34,2.5768197453450252,5,0
+Quad9 IPv6,one.one.one.one,32.4,33.0,29,34,1.7435595774162693,5,0
+Quad9 IPv6,fastly.net,30.2,28.0,22,39,5.81033561853358,5,0
+Quad9 IPv6,akamai.net,37.4,33.0,28,62,12.67438361420389,5,0
+Quad9 IPv6,quad9.net,33.6,34.0,32,35,1.019803902718557,5,0
+Quad9 IPv6,opendns.com,33.2,33.0,32,34,0.7483314773547882,5,0
+Quad9 IPv6,verisign.com,32.2,32.0,31,34,1.16619037896906,5,0
+Quad9 IPv6,edgesuite.net,30.8,31.0,23,38,4.749736834815167,5,0
+Quad9 IPv6,adguard.com,34.2,32.0,32,41,3.4871191548325386,5,0
+Quad9 IPv6,resolver.arpa,33.2,33.0,32,35,0.9797958971132711,5,0
+Quad9 IPv6,cleanbrowsing.org,73.0,32.0,27,242,84.52455264596199,5,0
+Quad9 IPv6,nextdns.io,32.6,31.0,30,39,3.3823069050575523,5,0
+Quad9 IPv6,ultradns.com,40.8,33.0,31,73,16.12947612292476,5,0
+Quad9 IPv6,resolv.conf,32.8,33.0,31,34,0.9797958971132712,5,0
+Quad9 IPv6,nsone.net,84.8,38.0,32,282,98.65171057817497,5,0
+Quad9 IPv6,level3.com,81.8,35.0,33,272,95.10289164899245,5,0
+Quad9 IPv6,akamaihd.net,30.0,32.0,23,33,3.63318042491699,5,0
+Quad9 IPv6,dns.google,32.0,32.0,27,37,3.22490309931942,5,0
+Quad9 IPv6,akamai.com,33.4,33.0,32,35,1.0198039027185568,5,0
+Quad9 IPv6,edgekey.net,31.4,32.0,28,33,1.7435595774162693,5,0
+Quad9 IPv6,dns.adguard-dns.com,32.0,32.0,30,34,1.7888543819998317,5,0
+Quad9 IPv6,cachefly.net,33.8,33.0,32,37,1.7204650534085253,5,0
+Quad9 IPv6,zenedge.net,33.2,33.0,32,35,1.16619037896906,5,0
+Quad9 IPv6,stackpathdns.com,39.0,44.0,27,48,8.049844718999243,5,0
+Quad9 IPv6,he.net,33.0,31.0,31,37,2.5298221281347035,5,0
+Quad9 IPv6,yandex.ru,37.2,38.0,28,44,5.192301994298868,5,0
+Quad9 IPv6,baidu.com,34.8,32.0,32,45,5.114684741017769,5,0
+Quad9 IPv6,naver.com,63.2,34.0,32,182,59.4084169120841,5,0
+Quad9 IPv6,jio.com,32.2,32.0,31,33,0.7483314773547882,5,0
+Quad9 IPv6,nic.in,32.2,32.0,30,34,1.5999999999999999,5,0
+Quad9 IPv6,gov.uk,32.0,32.0,30,33,1.0954451150103321,5,0
+Quad9 IPv6,cern.ch,32.2,32.0,32,33,0.4,5,0
+Quad9 IPv6,zone.ug,31.6,32.0,28,33,1.8547236990991407,5,0
+Quad9 IPv6,nic.cl,34.2,33.0,32,37,1.9390719429665315,5,0
+Quad9 IPv6,nic.coop,109.6,33.0,32,416,153.2039163990268,5,0
+Quad9 IPv6,nic.br,30.8,32.0,26,33,2.481934729198171,5,0
+Quad9 IPv6,nic.cn,33.8,34.0,32,35,1.16619037896906,5,0
+Quad9 IPv6,nic.ng,32.4,32.0,29,36,2.2449944320643644,5,0
+Quad9 IPv6,nic.af,35.0,34.0,31,39,3.03315017762062,5,0
+Quad9 IPv6,nic.or.kr,33.2,32.0,31,38,2.4819347291981715,5,0
+Quad9 IPv6,globo.com,34.8,32.0,31,41,3.9698866482558417,5,0
+Quad9 IPv6,nic.ru,77.8,33.0,31,255,88.63272533325375,5,0
+Quad9 IPv6,mail.ru,67.4,33.0,32,206,69.30396814035976,5,0
+Quad9 IPv6,or.kr,33.8,32.0,30,43,4.707440918375928,5,0
+Quad9 IPv6,telstra.com.au,40.0,33.0,31,67,13.65283853270081,5,0
+Quad9 IPv6,sapo.pt,82.6,32.0,30,278,97.81942547367574,5,0
+Quad9 IPv6,sina.com.cn,117.2,35.0,32,447,164.917433887385,5,0
+Quad9 IPv6,rogers.com,39.4,38.0,31,56,8.708616422830897,5,0
+Quad9 IPv6,ntt.com,84.4,33.0,30,293,104.30647151543378,5,0
+Quad9 IPv6,bell.ca,73.6,32.0,31,236,81.22708907747463,5,0
+Quad9 IPv6,proximus.be,82.6,32.0,32,284,100.7007447837403,5,0
+Quad9 IPv6,example.net,83.4,33.0,32,286,101.30271467241143,5,0
+Quad9 IPv6,kpn.com,148.0,34.0,33,604,228.00263156376067,5,0
+Quad9 IPv6,example.edu,78.8,34.0,30,265,93.11369394455362,5,0
+Quad9 IPv6,iana.org,33.6,32.0,31,39,3.0724582991474434,5,0
+Quad9 IPv6,blackhole.webpagetest.org,36.0,34.0,32,43,3.847076812334269,5,0
+Quad9 IPv6,test.openresolver.com,32.2,32.0,31,33,0.7483314773547882,5,0
+Quad9 IPv6,whoami.akamai.net,31.8,32.0,30,33,0.9797958971132712,5,0
+Quad9 IPv6,test-ipv6.com,113.0,33.0,31,433,160.00874976075528,5,0
+Quad9 IPv6,myip.opendns.com,32.8,33.0,31,34,1.16619037896906,5,0
+Quad9 IPv6,root-servers.net,31.8,32.0,30,34,1.6,5,0
+Quad9 IPv6,ip6.nl,33.4,34.0,30,36,2.1540659228538015,5,0
+Quad9 IPv6,openstreetmap.fr,56.6,33.0,31,153,48.210372327954495,5,0
+Quad9 IPv6,plan99.net,32.6,32.0,31,35,1.3564659966250536,5,0
+Quad9 IPv6,dnscrypt.info,33.8,33.0,30,37,2.481934729198171,5,0
+Quad9 IPv6,dnspython.org,34.0,32.0,30,43,4.604345773288535,5,0
+Quad9 IPv6,torproject.org,153.4,33.0,30,634,240.3144606552007,5,0
+Quad9 IPv6,openwrt.org,31.6,33.0,26,34,2.870540018881465,5,0
+Quad9 IPv6,publicsuffix.org,32.0,31.0,31,34,1.2649110640673518,5,0
+Quad9 IPv6,nlnetlabs.nl,31.6,33.0,26,34,2.870540018881465,5,0
+Quad9 IPv6,nvlpubs.nist.gov,33.2,33.0,31,37,2.039607805437114,5,0
+Quad9 IPv6,labnbook.com,34.4,33.0,31,38,3.0066592756745814,5,0
+Quad9 IPv6,archive.org,31.8,31.0,31,34,1.1661903789690602,5,0
+Quad9 IPv6,dl.acm.org,37.6,32.0,32,57,9.76933979345585,5,0
+Quad9 IPv6,eprints.soton.ac.uk,33.4,33.0,32,35,1.019803902718557,5,0
+Quad9 IPv6,rsdn.org,32.6,33.0,31,34,1.0198039027185568,5,0
+Quad9 IPv6,dnscheck.tools,33.8,31.0,30,44,5.192301994298868,5,0
+Quad9 IPv6,dnsleaktest.com,89.4,32.0,31,320,115.30238505772549,5,0
+Quad9 IPv6,xip.io,382.8,33.0,29,1784,700.6035683608812,5,0
+Quad9 IPv6,checkmydns.net,33.4,33.0,29,37,2.6532998322843198,5,0
+Quad9 IPv6,ipinfo.io,34.0,35.0,30,37,2.6076809620810595,5,0
+Quad9 IPv6,whatismyip.akamai.com,32.6,33.0,30,35,2.244994432064365,5,0
+Quad9 IPv6,trace.test,33.0,32.0,32,35,1.2649110640673518,5,0
+Quad9 IPv6,cloudping.info,32.6,32.0,31,35,1.3564659966250536,5,0
+Quad9 IPv6,speed.cloudflare.com,32.2,32.0,31,34,0.9797958971132712,5,0
+Quad9 IPv6,bgp.he.net,30.0,30.0,26,33,2.449489742783178,5,0
+Quad9 IPv6,ping.pe,33.4,33.0,31,38,2.4166091947189146,5,0
+Quad9 IPv6,ping.eu,35.2,33.0,32,44,4.445222154178574,5,0
+Quad9 IPv6,root-servers.org,27.8,27.0,22,33,3.867815921162743,5,0
+Quad9 IPv6,a.root-servers.net,33.8,34.0,32,35,1.16619037896906,5,0
+Quad9 IPv6,l.root-servers.net,35.2,37.0,25,44,6.20966987850401,5,0
+Quad9 IPv6,iana.com,30.0,32.0,24,33,3.286335345030997,5,0
+Quad9 IPv6,arpa,34.4,34.0,32,38,2.0591260281974,5,0
+Quad9 IPv6,int,33.4,34.0,30,36,1.9595917942265424,5,0
+Quad9 IPv6,whois.iana.org,83.4,33.0,32,286,101.3007403724178,5,0
+Quad9 IPv6,tld-list.com,37.2,37.0,31,46,5.035871324805669,5,0
+Quad9 edns IPv4,youtube.com,36.8,37.0,33,40,2.5612496949731396,5,0
+Quad9 edns IPv4,google.com,39.2,38.0,35,46,3.7629775444453557,5,0
+Quad9 edns IPv4,facebook.com,33.6,33.0,26,41,5.388877434122992,5,0
+Quad9 edns IPv4,amazon.com,41.2,34.0,32,64,12.056533498481228,5,0
+Quad9 edns IPv4,reddit.com,39.0,38.0,31,48,6.603029607687671,5,0
+Quad9 edns IPv4,instagram.com,41.2,43.0,32,54,8.084553172563094,5,0
+Quad9 edns IPv4,spotify.com,35.6,34.0,32,42,3.6110940170535577,5,0
+Quad9 edns IPv4,microsoft.com,47.0,40.0,34,74,14.939879517586478,5,0
+Quad9 edns IPv4,bing.com,33.6,32.0,30,41,3.9293765408777004,5,0
+Quad9 edns IPv4,apple.com,35.2,31.0,31,48,6.584831053261731,5,0
+Quad9 edns IPv4,twitch.tv,34.2,33.0,32,37,2.3151673805580453,5,0
+Quad9 edns IPv4,quora.com,35.4,36.0,33,38,1.7435595774162693,5,0
+Quad9 edns IPv4,zoom.us,47.2,37.0,33,77,16.666133324799727,5,0
+Quad9 edns IPv4,nytimes.com,36.4,32.0,31,54,8.822698000045111,5,0
+Quad9 edns IPv4,espn.com,41.4,41.0,34,48,5.122499389946279,5,0
+Quad9 edns IPv4,whatsapp.com,42.8,36.0,35,70,13.614697940094008,5,0
+Quad9 edns IPv4,twitter.com,39.0,40.0,30,44,4.979959839195493,5,0
+Quad9 edns IPv4,netflix.com,397.0,54.0,34,1541,581.8449965411751,5,0
+Quad9 edns IPv4,pinterest.com,40.6,38.0,33,56,8.333066662399863,5,0
+Quad9 edns IPv4,tiktok.com,39.8,37.0,32,56,8.35224520712844,5,0
+Quad9 edns IPv4,ebay.com,37.0,33.0,30,53,8.221921916437786,5,0
+Quad9 edns IPv4,linkedin.com,492.2,279.0,58,1565,543.2139173474848,5,0
+Quad9 edns IPv4,cnn.com,36.0,36.0,32,41,3.63318042491699,5,0
+Quad9 edns IPv4,imdb.com,40.6,41.0,35,48,4.758150901348127,5,0
+Quad9 edns IPv4,wikipedia.org,541.4,236.0,210,1742,601.021663503072,5,0
+Quad9 edns IPv4,paypal.com,35.6,33.0,28,50,7.552483035399682,5,0
+Quad9 edns IPv4,weather.com,38.0,37.0,33,43,3.8987177379235853,5,0
+Quad9 edns IPv4,booking.com,42.8,42.0,39,48,2.9257477676655586,5,0
+Quad9 edns IPv4,wordpress.com,35.6,36.0,32,39,2.727636339397171,5,0
+Quad9 edns IPv4,airbnb.com,35.8,36.0,30,41,3.9698866482558417,5,0
+Quad9 edns IPv4,bbc.com,383.6,33.0,30,1788,702.2029905946001,5,0
+Quad9 edns IPv4,gitlab.com,37.6,34.0,34,47,5.083306010855534,5,0
+Quad9 edns IPv4,tumblr.com,34.4,33.0,33,37,1.7435595774162693,5,0
+Quad9 edns IPv4,github.com,35.6,37.0,30,41,4.363484845854286,5,0
+Quad9 edns IPv4,stackoverflow.com,42.0,38.0,33,55,9.252026804976301,5,0
+Quad9 edns IPv4,npmjs.com,38.4,39.0,28,48,6.406246951218788,5,0
+Quad9 edns IPv4,docker.com,38.4,39.0,36,42,2.244994432064365,5,0
+Quad9 edns IPv4,files.pythonhosted.org,43.6,44.0,35,51,6.740919818541086,5,0
+Quad9 edns IPv4,rubygems.org,62.0,36.0,31,166,52.188121253787244,5,0
+Quad9 edns IPv4,repo.maven.apache.org,41.6,33.0,27,79,18.927229062913568,5,0
+Quad9 edns IPv4,pypi.org,35.4,35.0,33,38,1.6248076809271923,5,0
+Quad9 edns IPv4,registry.npmjs.org,40.2,38.0,35,48,4.48998886412873,5,0
+Quad9 edns IPv4,bitbucket.org,44.6,42.0,35,54,7.605261336732617,5,0
+Quad9 edns IPv4,sourceforge.net,36.8,38.0,32,42,3.762977544445356,5,0
+Quad9 edns IPv4,readthedocs.io,36.6,38.0,32,41,3.4985711369071804,5,0
+Quad9 edns IPv4,dev.to,37.4,36.0,33,45,4.127953488110059,5,0
+Quad9 edns IPv4,anaconda.org,33.4,33.0,31,35,1.4966629547095764,5,0
+Quad9 edns IPv4,godoc.org,34.2,33.0,30,43,4.791659420284376,5,0
+Quad9 edns IPv4,registry.terraform.io,74.2,41.0,35,210,67.96293107275466,5,0
+Quad9 edns IPv4,circleci.com,63.2,39.0,36,161,48.938328537047525,5,0
+Quad9 edns IPv4,grafana.com,59.6,42.0,34,145,42.83269779035638,5,0
+Quad9 edns IPv4,cdn.cloudflare.net,68.8,33.0,30,217,74.11720448047133,5,0
+Quad9 edns IPv4,prometheus.io,110.2,38.0,37,395,142.41544860021332,5,0
+Quad9 edns IPv4,cloudflare.com,112.6,37.0,33,420,153.71480084884473,5,0
+Quad9 edns IPv4,dns.google,67.2,30.0,30,210,71.43780511745865,5,0
+Quad9 edns IPv4,cloudfront.net,65.8,35.0,30,197,65.63962218050924,5,0
+Quad9 edns IPv4,fastly.net,71.6,37.0,36,205,66.74608602757168,5,0
+Quad9 edns IPv4,akamai.net,62.8,32.0,30,188,62.61756941945288,5,0
+Quad9 edns IPv4,edgesuite.net,65.8,40.0,33,154,45.90599089443555,5,0
+Quad9 edns IPv4,jetbrains.com,452.2,294.0,36,1535,556.0843101544945,5,0
+Quad9 edns IPv4,one.one.one.one,269.4,253.0,33,596,220.70668317928207,5,0
+Quad9 edns IPv4,quad9.net,81.8,39.0,30,194,63.96686642317255,5,0
+Quad9 edns IPv4,opendns.com,94.8,74.0,32,220,67.96293107275466,5,0
+Quad9 edns IPv4,adguard.com,152.0,141.0,34,339,115.0512929088587,5,0
+Quad9 edns IPv4,travis-ci.com,70.6,36.0,35,204,66.74608602757168,5,0
+Quad9 edns IPv4,resolver.arpa,96.6,47.0,35,210,72.05719950150713,5,0
+Quad9 edns IPv4,verisign.com,99.0,101.0,31,202,61.7122354156775,5,0
+Quad9 edns IPv4,ultradns.com,96.0,50.0,30,192,68.20263924512012,5,0
+Quad9 edns IPv4,cleanbrowsing.org,126.4,113.0,29,250,90.40707936881934,5,0
+Quad9 edns IPv4,resolv.conf,87.2,75.0,30,174,52.76134948994387,5,0
+Quad9 edns IPv4,cran.r-project.org,113.0,102.0,35,218,70.7757020452641,5,0
+Quad9 edns IPv4,nextdns.io,144.0,60.0,43,365,125.38261442480771,5,0
+Quad9 edns IPv4,level3.com,152.2,185.0,34,229,74.60134047053043,5,0
+Quad9 edns IPv4,akamaihd.net,142.4,178.0,33,269,94.27109843424971,5,0
+Quad9 edns IPv4,akamai.com,134.0,83.0,29,353,121.48744791129658,5,0
+Quad9 edns IPv4,edgekey.net,150.2,148.0,31,363,121.8087024805699,5,0
+Quad9 edns IPv4,dns.adguard-dns.com,220.4,42.0,32,765,282.1195491276703,5,0
+Quad9 edns IPv4,baidu.com,80.6,38.0,33,189,60.8558953594473,5,0
+Quad9 edns IPv4,he.net,82.2,35.0,30,185,63.60943326268518,5,0
+Quad9 edns IPv4,yandex.ru,79.6,39.0,31,182,59.37204729500238,5,0
+Quad9 edns IPv4,nsone.net,157.4,32.0,29,531,193.80877173131253,5,0
+Quad9 edns IPv4,jio.com,66.4,33.0,30,163,51.016075897701114,5,0
+Quad9 edns IPv4,zenedge.net,175.2,63.0,34,673,249.36671790758285,5,0
+Quad9 edns IPv4,stackpathdns.com,173.0,35.0,30,727,277.02490862736516,5,0
+Quad9 edns IPv4,naver.com,108.2,35.0,32,400,145.9238157395838,5,0
+Quad9 edns IPv4,nic.in,48.4,33.0,29,111,31.3789738519283,5,0
+Quad9 edns IPv4,nic.coop,190.8,34.0,32,814,311.6160457999556,5,0
+Quad9 edns IPv4,cern.ch,135.4,33.0,31,541,202.82465333385883,5,0
+Quad9 edns IPv4,cachefly.net,48.4,33.0,31,110,30.845421054023564,5,0
+Quad9 edns IPv4,nic.br,30.4,34.0,23,37,5.748043145279966,5,0
+Quad9 edns IPv4,nic.cn,72.8,34.0,32,228,77.61803914039571,5,0
+Quad9 edns IPv4,zone.ug,38.2,32.0,31,62,11.98999582985749,5,0
+Quad9 edns IPv4,globo.com,32.8,32.0,27,38,4.166533331199932,5,0
+Quad9 edns IPv4,nic.ru,144.0,39.0,30,558,207.26504770462387,5,0
+Quad9 edns IPv4,nic.af,141.2,37.0,28,565,211.99377349346844,5,0
+Quad9 edns IPv4,nic.ng,202.4,33.0,31,859,328.4287441744404,5,0
+Quad9 edns IPv4,sapo.pt,91.8,41.0,36,295,101.67674267009147,5,0
+Quad9 edns IPv4,or.kr,123.0,40.0,34,465,171.02163605813155,5,0
+Quad9 edns IPv4,telstra.com.au,90.8,35.0,31,317,113.13425652736663,5,0
+Quad9 edns IPv4,rogers.com,109.4,39.0,32,375,133.3965516795693,5,0
+Quad9 edns IPv4,nic.or.kr,195.2,34.0,31,833,318.9372352046716,5,0
+Quad9 edns IPv4,ntt.com,146.6,39.0,36,579,216.20416277213536,5,0
+Quad9 edns IPv4,sina.com.cn,341.6,337.0,329,362,11.128342194594843,5,0
+Quad9 edns IPv4,iana.org,32.8,33.0,30,35,1.7204650534085253,5,0
+Quad9 edns IPv4,gov.uk,36.6,32.0,30,55,9.350935782048767,5,0
+Quad9 edns IPv4,mail.ru,392.4,33.0,31,1833,720.300381785266,5,0
+Quad9 edns IPv4,kpn.com,174.8,32.0,30,746,285.6049019187171,5,0
+Quad9 edns IPv4,example.net,89.8,33.0,31,319,114.60436291869519,5,0
+Quad9 edns IPv4,proximus.be,75.2,32.0,29,251,87.91677883089211,5,0
+Quad9 edns IPv4,blackhole.webpagetest.org,38.0,35.0,34,45,4.2895221179054435,5,0
+Quad9 edns IPv4,myip.opendns.com,36.2,36.0,34,38,1.5999999999999999,5,0
+Quad9 edns IPv4,test-ipv6.com,75.8,35.0,33,223,74.00918861871139,5,0
+Quad9 edns IPv4,nic.cl,37.6,40.0,32,42,4.223742416388575,5,0
+Quad9 edns IPv4,whoami.akamai.net,36.8,37.0,28,43,5.035871324805669,5,0
+Quad9 edns IPv4,test.openresolver.com,85.4,36.0,30,287,100.88329891513263,5,0
+Quad9 edns IPv4,bell.ca,336.0,32.0,30,1553,608.5007806075519,5,0
+Quad9 edns IPv4,example.edu,130.0,32.0,31,523,196.50038167901863,5,0
+Quad9 edns IPv4,root-servers.net,46.4,32.0,30,103,28.345017198795276,5,0
+Quad9 edns IPv4,openstreetmap.fr,38.6,33.0,27,69,15.357083056361974,5,0
+Quad9 edns IPv4,xip.io,88.8,35.0,31,308,109.61824665629348,5,0
+Quad9 edns IPv4,plan99.net,36.0,34.0,32,43,4.33589667773576,5,0
+Quad9 edns IPv4,torproject.org,167.8,32.0,27,711,271.61840880176004,5,0
+Quad9 edns IPv4,dnscrypt.info,133.6,33.0,30,541,203.70331366966025,5,0
+Quad9 edns IPv4,publicsuffix.org,34.2,34.0,30,40,3.6,5,0
+Quad9 edns IPv4,openwrt.org,32.6,32.0,30,39,3.3226495451672298,5,0
+Quad9 edns IPv4,ip6.nl,424.8,34.0,30,1992,783.602552318457,5,0
+Quad9 edns IPv4,dnspython.org,84.4,33.0,31,289,102.33200867763712,5,0
+Quad9 edns IPv4,labnbook.com,34.0,32.0,31,39,3.03315017762062,5,0
+Quad9 edns IPv4,nlnetlabs.nl,116.8,31.0,28,433,158.59810843764814,5,0
+Quad9 edns IPv4,dl.acm.org,38.8,39.0,34,44,3.54400902933387,5,0
+Quad9 edns IPv4,nvlpubs.nist.gov,40.6,40.0,36,49,4.8,5,0
+Quad9 edns IPv4,archive.org,86.2,37.0,30,267,91.20394728299867,5,0
+Quad9 edns IPv4,eprints.soton.ac.uk,31.2,32.0,29,32,1.1661903789690602,5,0
+Quad9 edns IPv4,rsdn.org,32.2,30.0,30,39,3.4871191548325386,5,0
+Quad9 edns IPv4,dnscheck.tools,50.6,47.0,36,80,15.304901175767194,5,0
+Quad9 edns IPv4,checkmydns.net,34.2,32.0,30,40,4.019950248448356,5,0
+Quad9 edns IPv4,ipinfo.io,35.4,33.0,30,50,7.391887445030531,5,0
+Quad9 edns IPv4,cloudping.info,32.2,33.0,30,35,1.9390719429665315,5,0
+Quad9 edns IPv4,trace.test,35.2,35.0,31,41,3.6,5,0
+Quad9 edns IPv4,speed.cloudflare.com,38.6,36.0,33,48,5.388877434122992,5,0
+Quad9 edns IPv4,bgp.he.net,73.6,34.0,32,231,78.7263615315734,5,0
+Quad9 edns IPv4,dnsleaktest.com,95.0,35.0,33,333,119.01596531558276,5,0
+Quad9 edns IPv4,root-servers.org,34.8,36.0,32,38,2.4,5,0
+Quad9 edns IPv4,ping.eu,83.4,33.0,31,289,102.80389097694699,5,0
+Quad9 edns IPv4,int,32.8,32.0,30,37,2.4819347291981715,5,0
+Quad9 edns IPv4,a.root-servers.net,35.8,31.0,29,51,8.059776671843954,5,0
+Quad9 edns IPv4,l.root-servers.net,33.2,31.0,31,41,3.9191835884530852,5,0
+Quad9 edns IPv4,arpa,36.0,35.0,32,44,4.427188724235731,5,0
+Quad9 edns IPv4,iana.com,109.4,35.0,32,412,151.30842673162655,5,0
+Quad9 edns IPv4,tld-list.com,39.4,38.0,35,50,5.535341001239219,5,0
+Quad9 edns IPv4,whatismyip.akamai.com,343.4,44.0,30,1544,600.4443687803225,5,0
+Quad9 edns IPv6,google.com,40.2,37.0,34,58,8.97552226892675,5,0
+Quad9 edns IPv6,youtube.com,39.4,39.0,36,45,3.0066592756745814,5,0
+Quad9 edns IPv4,ping.pe,338.0,39.0,35,1536,599.0058430432879,5,0
+Quad9 edns IPv6,facebook.com,37.4,37.0,34,43,3.0066592756745814,5,0
+Quad9 edns IPv6,apple.com,34.4,33.0,32,40,3.006659275674582,5,0
+Quad9 edns IPv6,amazon.com,33.4,32.0,32,37,1.9595917942265424,5,0
+Quad9 edns IPv6,microsoft.com,34.4,34.0,30,41,3.7202150475476548,5,0
+Quad9 edns IPv6,instagram.com,36.8,36.0,34,41,2.7856776554368237,5,0
+Quad9 edns IPv6,bing.com,33.8,33.0,32,36,1.469693845669907,5,0
+Quad9 edns IPv6,reddit.com,34.6,33.0,32,40,2.870540018881465,5,0
+Quad9 edns IPv6,netflix.com,38.2,37.0,34,43,3.0594117081556713,5,0
+Quad9 edns IPv6,spotify.com,33.2,35.0,27,39,4.48998886412873,5,0
+Quad9 edns IPv6,quora.com,33.4,31.0,27,46,6.590902821313633,5,0
+Quad9 edns IPv6,zoom.us,34.2,35.0,31,36,1.7204650534085253,5,0
+Quad9 edns IPv6,twitch.tv,36.8,39.0,26,45,6.910861017268399,5,0
+Quad9 edns IPv6,espn.com,40.0,39.0,35,46,4.0,5,0
+Quad9 edns IPv6,bbc.com,45.6,40.0,32,71,13.720058308913996,5,0
+Quad9 edns IPv6,nytimes.com,89.4,32.0,26,327,118.82020030281046,5,0
+Quad9 edns IPv6,whatsapp.com,33.4,35.0,30,35,2.0591260281974,5,0
+Quad9 edns IPv6,tiktok.com,34.6,34.0,32,38,1.9595917942265424,5,0
+Quad9 edns IPv6,twitter.com,30.6,32.0,24,33,3.3823069050575523,5,0
+Quad9 edns IPv6,cnn.com,33.6,33.0,29,40,4.029888335921977,5,0
+Quad9 edns IPv6,imdb.com,34.6,34.0,31,41,3.7202150475476548,5,0
+Quad9 edns IPv6,pinterest.com,38.2,38.0,34,45,3.7094473981982814,5,0
+Quad9 edns IPv6,ebay.com,79.8,32.0,31,272,96.1028615598932,5,0
+Quad9 edns IPv6,paypal.com,43.8,34.0,30,80,18.637596411554792,5,0
+Quad9 edns IPv6,weather.com,34.0,33.0,26,47,7.0710678118654755,5,0
+Quad9 edns IPv6,wordpress.com,33.0,32.0,26,43,5.549774770204643,5,0
+Quad9 edns IPv6,tumblr.com,33.4,34.0,30,36,1.9595917942265424,5,0
+Quad9 edns IPv6,airbnb.com,34.0,36.0,24,42,5.932958789676531,5,0
+Quad9 edns IPv6,github.com,36.8,37.0,33,41,2.993325909419153,5,0
+Quad9 edns IPv6,gitlab.com,34.4,34.0,33,36,1.0198039027185568,5,0
+Quad9 edns IPv6,pypi.org,32.0,33.0,30,34,1.6733200530681511,5,0
+Quad9 edns IPv6,files.pythonhosted.org,45.0,42.0,38,58,6.985699678629192,5,0
+Quad9 edns IPv4,whois.iana.org,275.4,277.0,230,340,40.33658389105354,5,0
+Quad9 edns IPv6,booking.com,339.4,39.0,34,1541,600.816311363132,5,0
+Quad9 edns IPv6,stackoverflow.com,68.4,40.0,33,192,61.86630747022163,5,0
+Quad9 edns IPv6,linkedin.com,399.2,84.0,39,1555,584.5012917008823,5,0
+Quad9 edns IPv6,wikipedia.org,900.0,341.0,325,1806,696.1195299659391,5,0
+Quad9 edns IPv6,npmjs.com,37.8,35.0,31,45,5.635601121442148,5,0
+Quad9 edns IPv6,registry.npmjs.org,38.8,38.0,31,50,6.241794613730894,5,0
+Quad9 edns IPv6,rubygems.org,108.6,38.0,32,284,99.57831089147878,5,0
+Quad9 edns IPv6,bitbucket.org,44.6,38.0,36,72,13.763720427268202,5,0
+Quad9 edns IPv6,sourceforge.net,40.0,38.0,36,50,5.215361924162119,5,0
+Quad9 edns IPv6,jetbrains.com,36.6,38.0,30,40,3.5552777669262356,5,0
+Quad9 edns IPv6,docker.com,384.4,34.0,34,1783,699.3009652502991,5,0
+Quad9 edns IPv6,godoc.org,34.4,33.0,29,43,4.63033476111609,5,0
+Quad9 edns IPv6,anaconda.org,39.6,37.0,33,51,6.437390775772434,5,0
+Quad9 edns IPv6,cran.r-project.org,248.6,34.0,33,1107,429.2013979473972,5,0
+Quad9 edns IPv6,grafana.com,32.6,33.0,30,35,2.244994432064365,5,0
+Quad9 edns IPv6,registry.terraform.io,93.0,38.0,35,285,96.86898368414938,5,0
+Quad9 edns IPv6,prometheus.io,47.0,43.0,38,69,11.260550608207398,5,0
+Quad9 edns IPv6,circleci.com,37.4,35.0,33,44,4.029888335921977,5,0
+Quad9 edns IPv6,travis-ci.com,39.2,39.0,36,43,2.5612496949731396,5,0
+Quad9 edns IPv6,cloudflare.com,36.4,36.0,33,42,3.1368774282716245,5,0
+Quad9 edns IPv6,repo.maven.apache.org,389.6,33.0,31,1811,710.708829268358,5,0
+Quad9 edns IPv6,cdn.cloudflare.net,34.8,35.0,30,38,2.6381811916545836,5,0
+Quad9 edns IPv6,readthedocs.io,341.2,38.0,36,1536,597.4687941641805,5,0
+Quad9 edns IPv6,dev.to,376.6,42.0,34,1537,585.0502884368146,5,0
+Quad9 edns IPv6,cloudfront.net,35.6,35.0,30,47,6.053098380168623,5,0
+Quad9 edns IPv6,dns.google,33.8,33.0,31,39,2.7856776554368237,5,0
+Quad9 edns IPv6,fastly.net,35.8,34.0,33,43,3.7629775444453557,5,0
+Quad9 edns IPv6,one.one.one.one,124.0,35.0,32,483,179.50487458562233,5,0
+Quad9 edns IPv6,opendns.com,33.4,34.0,28,38,3.1999999999999997,5,0
+Quad9 edns IPv6,akamai.net,33.6,33.0,31,39,2.9393876913398134,5,0
+Quad9 edns IPv6,edgesuite.net,32.0,31.0,29,39,3.5777087639996634,5,0
+Quad9 edns IPv6,nextdns.io,38.0,37.0,36,41,2.0976176963403033,5,0
+Quad9 edns IPv6,quad9.net,94.2,36.0,31,333,119.41758664451397,5,0
+Quad9 edns IPv6,resolver.arpa,32.4,33.0,26,37,3.6110940170535573,5,0
+Quad9 edns IPv6,verisign.com,62.0,33.0,33,176,57.00526291492742,5,0
+Quad9 edns IPv6,cleanbrowsing.org,115.6,32.0,31,448,166.20541507423874,5,0
+Quad9 edns IPv6,ultradns.com,36.2,34.0,31,43,4.534313619501853,5,0
+Quad9 edns IPv6,nsone.net,54.6,32.0,26,148,46.79145221084723,5,0
+Quad9 edns IPv6,adguard.com,336.8,39.0,34,1536,599.60433620847,5,0
+Quad9 edns IPv6,resolv.conf,34.0,34.0,30,38,2.8284271247461903,5,0
+Quad9 edns IPv6,akamai.com,33.0,33.0,32,34,0.8944271909999159,5,0
+Quad9 edns IPv6,akamaihd.net,34.0,34.0,31,36,1.8973665961010275,5,0
+Quad9 edns IPv6,edgekey.net,32.4,33.0,30,34,1.3564659966250536,5,0
+Quad9 edns IPv6,dns.adguard-dns.com,36.2,34.0,34,40,2.7129319932501073,5,0
+Quad9 edns IPv6,cachefly.net,50.6,33.0,30,120,34.800000000000004,5,0
+Quad9 edns IPv6,zenedge.net,35.6,34.0,30,42,4.31740662898458,5,0
+Quad9 edns IPv6,stackpathdns.com,35.0,33.0,30,44,4.898979485566356,5,0
+Quad9 edns IPv6,baidu.com,32.2,33.0,29,35,2.0396078054371136,5,0
+Quad9 edns IPv6,yandex.ru,75.4,33.0,30,246,85.31494593563312,5,0
+Quad9 edns IPv6,naver.com,54.8,34.0,28,146,45.66574208309769,5,0
+Quad9 edns IPv6,he.net,32.6,32.0,31,34,1.2,5,0
+Quad9 edns IPv6,jio.com,34.2,35.0,32,35,1.16619037896906,5,0
+Quad9 edns IPv6,cern.ch,31.8,32.0,29,34,1.6,5,0
+Quad9 edns IPv6,gov.uk,32.8,33.0,31,35,1.3266499161421599,5,0
+Quad9 edns IPv6,nic.in,33.0,33.0,32,34,0.6324555320336759,5,0
+Quad9 edns IPv6,nic.coop,39.4,35.0,32,61,10.85541339608953,5,0
+Quad9 edns IPv6,nic.cl,32.8,33.0,31,34,0.9797958971132712,5,0
+Quad9 edns IPv6,nic.br,55.4,30.0,28,159,51.80965161048663,5,0
+Quad9 edns IPv6,level3.com,71.2,34.0,30,225,76.9139779233918,5,0
+Quad9 edns IPv6,zone.ug,173.2,34.0,30,732,279.4068002035741,5,0
+Quad9 edns IPv6,nic.af,34.0,34.0,32,36,1.2649110640673518,5,0
+Quad9 edns IPv6,nic.ru,130.2,32.0,32,521,195.4015353061485,5,0
+Quad9 edns IPv6,nic.ng,102.4,34.0,31,380,138.81296769394422,5,0
+Quad9 edns IPv6,nic.cn,147.6,33.0,29,611,231.704639573747,5,0
+Quad9 edns IPv6,globo.com,34.0,32.0,31,43,4.560701700396552,5,0
+Quad9 edns IPv6,sapo.pt,77.6,33.0,31,258,90.20554306693131,5,0
+Quad9 edns IPv6,mail.ru,70.6,34.0,34,216,72.70103162954429,5,0
+Quad9 edns IPv6,nic.or.kr,33.2,33.0,31,35,1.3266499161421599,5,0
+Quad9 edns IPv6,or.kr,108.4,30.0,29,412,151.87968922802023,5,0
+Quad9 edns IPv6,telstra.com.au,40.6,35.0,32,67,13.335666462535722,5,0
+Quad9 edns IPv6,rogers.com,41.2,36.0,32,69,13.991425945914163,5,0
+Quad9 edns IPv6,proximus.be,65.8,33.0,31,199,66.60750708441203,5,0
+Quad9 edns IPv6,bell.ca,82.4,37.0,32,271,94.31776078766927,5,0
+Quad9 edns IPv6,blackhole.webpagetest.org,34.0,33.0,31,37,2.5298221281347035,5,0
+Quad9 edns IPv6,kpn.com,150.2,32.0,32,622,235.9003179311126,5,0
+Quad9 edns IPv6,ntt.com,188.0,34.0,32,806,309.00355985004444,5,0
+Quad9 edns IPv6,test.openresolver.com,35.8,34.0,29,48,6.43117407632541,5,0
+Quad9 edns IPv6,whoami.akamai.net,33.8,33.0,32,37,1.7204650534085253,5,0
+Quad9 edns IPv6,example.net,84.8,35.0,33,285,100.11673186835453,5,0
+Quad9 edns IPv6,iana.org,115.8,33.0,31,447,165.6048308474122,5,0
+Quad9 edns IPv6,myip.opendns.com,36.4,36.0,32,41,3.261901286060018,5,0
+Quad9 edns IPv6,root-servers.net,35.2,35.0,31,39,2.7129319932501073,5,0
+Quad9 edns IPv6,ip6.nl,32.6,32.0,31,36,1.8547236990991407,5,0
+Quad9 edns IPv6,openstreetmap.fr,97.6,34.0,30,358,130.20844826661593,5,0
+Quad9 edns IPv6,sina.com.cn,629.4,327.0,320,1826,598.3826869153218,5,0
+Quad9 edns IPv6,xip.io,65.0,34.0,33,188,61.507723092307685,5,0
+Quad9 edns IPv6,plan99.net,33.0,33.0,30,35,1.6733200530681511,5,0
+Quad9 edns IPv6,dnscrypt.info,33.2,33.0,30,36,2.1354156504062622,5,0
+Quad9 edns IPv6,publicsuffix.org,33.8,33.0,32,36,1.4696938456699067,5,0
+Quad9 edns IPv6,dnspython.org,36.2,34.0,33,41,3.54400902933387,5,0
+Quad9 edns IPv6,test-ipv6.com,358.0,33.0,32,1657,649.500731331382,5,0
+Quad9 edns IPv6,example.edu,81.0,34.0,32,270,94.50925880568528,5,0
+Quad9 edns IPv6,openwrt.org,34.6,33.0,32,41,3.3823069050575527,5,0
+Quad9 edns IPv6,dl.acm.org,38.0,36.0,34,45,3.847076812334269,5,0
+Quad9 edns IPv6,labnbook.com,36.8,37.0,33,40,2.9257477676655586,5,0
+Quad9 edns IPv6,archive.org,89.2,34.0,32,313,111.90245752439935,5,0
+Quad9 edns IPv6,nvlpubs.nist.gov,42.6,38.0,33,66,11.92644121270046,5,0
+Quad9 edns IPv6,torproject.org,87.8,39.0,33,294,103.14145626274626,5,0
+Quad9 edns IPv6,rsdn.org,33.4,33.0,30,39,3.1368774282716245,5,0
+Quad9 edns IPv6,nlnetlabs.nl,384.4,34.0,32,1786,700.8019977140476,5,0
+Quad9 edns IPv6,ipinfo.io,33.8,35.0,30,36,2.1354156504062622,5,0
+Quad9 edns IPv6,trace.test,35.2,34.0,33,38,1.9390719429665315,5,0
+Quad9 edns IPv6,speed.cloudflare.com,37.8,38.0,35,40,1.7204650534085253,5,0
+Quad9 edns IPv6,whatismyip.akamai.com,33.6,33.0,33,35,0.8,5,0
+Quad9 edns IPv6,checkmydns.net,142.8,35.0,32,575,216.11330361641322,5,0
+Quad9 edns IPv6,ping.pe,40.6,38.0,37,46,3.6660605559646724,5,0
+Quad9 edns IPv6,bgp.he.net,32.8,33.0,30,35,1.5999999999999999,5,0
+Quad9 edns IPv6,ping.eu,33.8,34.0,31,38,2.4000000000000004,5,0
+Quad9 edns IPv6,cloudping.info,34.8,35.0,30,39,2.9257477676655586,5,0
+Quad9 edns IPv6,dnscheck.tools,340.4,39.0,35,1548,603.8081152154217,5,0
+Quad9 edns IPv6,a.root-servers.net,32.8,33.0,30,34,1.4696938456699067,5,0
+Quad9 edns IPv6,l.root-servers.net,33.4,33.0,32,37,1.8547236990991407,5,0
+Quad9 edns IPv6,root-servers.org,32.8,33.0,28,38,3.1874754901018454,5,0
+Quad9 edns IPv6,eprints.soton.ac.uk,65.8,34.0,30,193,63.66600348694742,5,0
+Quad9 edns IPv6,dnsleaktest.com,335.2,34.0,33,1540,602.4009960151128,5,0
+Quad9 edns IPv6,arpa,33.2,34.0,29,37,2.6381811916545836,5,0
+Gcore IPv4,google.com,41.6,31.0,30,85,21.712669112755346,5,0
+Gcore IPv4,youtube.com,43.2,30.0,27,92,24.68521824898455,5,0
+Gcore IPv4,facebook.com,35.2,29.0,28,60,12.416118556135006,5,0
+Quad9 edns IPv6,tld-list.com,37.4,38.0,35,39,1.3564659966250536,5,0
+Gcore IPv4,amazon.com,32.6,31.0,30,40,3.7202150475476548,5,0
+Gcore IPv4,microsoft.com,31.0,30.0,30,33,1.2649110640673518,5,0
+Gcore IPv4,wikipedia.org,34.4,30.0,23,58,12.142487389328432,5,0
+Gcore IPv4,apple.com,31.2,30.0,29,35,2.1354156504062622,5,0
+Gcore IPv4,linkedin.com,33.0,31.0,30,41,4.147288270665544,5,0
+Gcore IPv4,instagram.com,36.2,31.0,30,56,10.007996802557443,5,0
+Quad9 edns IPv6,iana.com,420.2,32.0,29,1975,777.4011577043091,5,0
+Quad9 edns IPv6,int,34.0,33.0,33,37,1.5491933384829668,5,0
+Gcore IPv4,bing.com,30.6,32.0,24,34,3.555277766926235,5,0
+Gcore IPv4,reddit.com,30.8,30.0,28,35,2.315167380558045,5,0
+Gcore IPv4,netflix.com,46.2,31.0,30,106,29.915882069562983,5,0
+Gcore IPv4,quora.com,42.6,32.0,25,93,25.35034516530298,5,0
+Gcore IPv4,zoom.us,30.6,31.0,27,35,2.6532998322843198,5,0
+Gcore IPv4,nytimes.com,34.8,31.0,30,51,8.133879763065101,5,0
+Gcore IPv4,espn.com,34.4,34.0,29,40,3.8262252939417984,5,0
+Gcore IPv4,spotify.com,32.4,32.0,29,37,2.65329983228432,5,0
+Gcore IPv4,twitch.tv,31.2,32.0,28,33,1.7204650534085253,5,0
+Gcore IPv4,whatsapp.com,31.8,30.0,29,39,3.655133376499413,5,0
+Gcore IPv4,twitter.com,35.2,30.0,30,55,9.907572861200668,5,0
+Gcore IPv4,bbc.com,63.6,33.0,29,193,64.71970333677373,5,0
+Gcore IPv4,imdb.com,32.4,33.0,27,38,3.5552777669262356,5,0
+Gcore IPv4,ebay.com,43.0,30.0,28,97,27.018512172212592,5,0
+Gcore IPv4,tiktok.com,36.6,30.0,23,69,16.596385148579795,5,0
+Gcore IPv4,paypal.com,31.0,30.0,27,40,4.6475800154489,5,0
+Gcore IPv4,cnn.com,31.2,31.0,28,37,3.3105890714493698,5,0
+Gcore IPv4,pinterest.com,46.4,33.0,27,105,29.404761519182568,5,0
+Gcore IPv4,booking.com,30.8,30.0,28,33,1.9390719429665317,5,0
+Gcore IPv4,tumblr.com,32.2,32.0,30,36,2.039607805437114,5,0
+Gcore IPv4,airbnb.com,34.4,30.0,29,48,7.116178749862878,5,0
+Gcore IPv4,wordpress.com,32.0,33.0,30,33,1.2649110640673518,5,0
+Gcore IPv4,weather.com,79.6,33.0,29,272,96.21766989487949,5,0
+Gcore IPv4,github.com,39.2,33.0,30,69,14.945233353815523,5,0
+Gcore IPv4,docker.com,30.4,30.0,27,34,2.727636339397171,5,0
+Gcore IPv4,stackoverflow.com,30.6,30.0,25,38,4.363484845854286,5,0
+Gcore IPv4,pypi.org,30.4,30.0,28,33,1.624807680927192,5,0
+Gcore IPv4,gitlab.com,56.6,32.0,27,163,53.248849752835035,5,0
+Gcore IPv4,files.pythonhosted.org,32.4,31.0,28,40,4.127953488110059,5,0
+Quad9 edns IPv6,whois.iana.org,170.4,225.0,31,338,120.94560760937125,5,0
+Gcore IPv4,npmjs.com,32.0,32.0,28,37,3.286335345030997,5,0
+Gcore IPv4,registry.npmjs.org,36.4,31.0,27,59,11.586198686368192,5,0
+Gcore IPv4,repo.maven.apache.org,38.8,33.0,30,68,14.661514246489004,5,0
+Gcore IPv4,rubygems.org,108.0,31.0,30,408,150.05732238048233,5,0
+Gcore IPv4,bitbucket.org,30.2,29.0,28,35,2.6381811916545836,5,0
+Gcore IPv4,dev.to,31.2,31.0,28,35,2.2271057451320084,5,0
+Gcore IPv4,sourceforge.net,32.6,33.0,29,34,1.854723699099141,5,0
+Gcore IPv4,jetbrains.com,31.8,32.0,28,36,2.7129319932501073,5,0
+Gcore IPv4,readthedocs.io,38.0,34.0,27,67,14.886235252742717,5,0
+Gcore IPv4,cran.r-project.org,102.2,30.0,27,395,146.40409830329205,5,0
+Gcore IPv4,anaconda.org,33.0,33.0,31,35,1.2649110640673518,5,0
+Gcore IPv4,godoc.org,32.8,31.0,30,41,4.166533331199933,5,0
+Gcore IPv4,registry.terraform.io,41.0,29.0,27,89,24.058262613912916,5,0
+Gcore IPv4,grafana.com,30.8,31.0,29,34,1.8330302779823358,5,0
+Gcore IPv4,cdn.cloudflare.net,31.2,31.0,29,35,2.0396078054371136,5,0
+Gcore IPv4,prometheus.io,31.8,32.0,30,34,1.5999999999999999,5,0
+Gcore IPv4,circleci.com,36.2,33.0,28,55,9.703607576566563,5,0
+Gcore IPv4,cloudflare.com,30.0,30.0,29,31,0.6324555320336759,5,0
+Gcore IPv4,one.one.one.one,31.0,31.0,28,33,1.8973665961010275,5,0
+Gcore IPv4,travis-ci.com,31.4,31.0,30,33,1.0198039027185568,5,0
+Gcore IPv4,dns.google,73.2,30.0,29,244,85.41990400369225,5,0
+Gcore IPv4,edgesuite.net,30.6,30.0,27,35,2.727636339397171,5,0
+Gcore IPv4,cloudfront.net,31.6,31.0,28,35,2.3323807579381204,5,0
+Gcore IPv4,fastly.net,30.2,29.0,29,32,1.4696938456699067,5,0
+Gcore IPv4,akamai.net,31.4,32.0,28,35,2.5768197453450252,5,0
+Gcore IPv4,quad9.net,31.0,30.0,28,34,2.5298221281347035,5,0
+Gcore IPv4,opendns.com,32.4,32.0,30,35,1.624807680927192,5,0
+Gcore IPv4,nextdns.io,32.4,33.0,30,34,1.3564659966250536,5,0
+Gcore IPv4,adguard.com,32.4,31.0,30,38,3.0066592756745814,5,0
+Gcore IPv4,cleanbrowsing.org,69.4,30.0,29,227,78.8025380301929,5,0
+Gcore IPv4,resolver.arpa,31.6,30.0,26,40,4.63033476111609,5,0
+Gcore IPv4,verisign.com,61.4,33.0,30,180,59.32149694672244,5,0
+Gcore IPv4,ultradns.com,32.6,31.0,30,38,2.8705400188814645,5,0
+Gcore IPv4,nsone.net,44.2,31.0,26,104,29.955967685921948,5,0
+Gcore IPv4,resolv.conf,30.4,30.0,30,31,0.4898979485566356,5,0
+Gcore IPv4,level3.com,70.0,32.0,28,225,77.5345084462396,5,0
+Gcore IPv4,akamai.com,30.4,30.0,26,34,2.6532998322843198,5,0
+Gcore IPv4,edgekey.net,36.6,30.0,26,68,15.793669617919706,5,0
+Gcore IPv4,akamaihd.net,76.8,30.0,29,265,94.10079702106671,5,0
+Gcore IPv4,zenedge.net,30.2,29.0,28,35,2.481934729198171,5,0
+Gcore IPv4,dns.adguard-dns.com,30.4,30.0,29,33,1.3564659966250536,5,0
+Gcore IPv4,cachefly.net,31.8,31.0,29,35,2.315167380558045,5,0
+Gcore IPv4,he.net,30.8,30.0,29,34,1.9390719429665315,5,0
+Gcore IPv4,stackpathdns.com,31.8,30.0,27,37,3.9698866482558417,5,0
+Gcore IPv4,baidu.com,31.6,31.0,29,35,1.9595917942265426,5,0
+Gcore IPv4,jio.com,29.4,30.0,26,32,2.154065922853802,5,0
+Gcore IPv4,yandex.ru,29.8,29.0,29,31,0.9797958971132713,5,0
+Gcore IPv4,nic.in,62.6,30.0,28,196,66.70412281111265,5,0
+Gcore IPv4,gov.uk,31.2,31.0,28,35,2.5612496949731396,5,0
+Gcore IPv4,naver.com,73.6,32.0,30,244,85.20469470633645,5,0
+Gcore IPv4,nic.coop,46.0,30.0,28,112,33.00908965724441,5,0
+Gcore IPv4,cern.ch,31.2,32.0,26,34,2.7856776554368237,5,0
+Gcore IPv4,nic.br,30.4,30.0,28,34,2.0591260281974,5,0
+Gcore IPv4,nic.cl,30.6,30.0,30,32,0.7999999999999999,5,0
+Gcore IPv4,nic.cn,78.8,31.0,29,271,96.10494264084443,5,0
+Gcore IPv4,nic.ru,101.4,30.0,27,389,143.81460287467334,5,0
+Gcore IPv4,nic.af,31.2,31.0,30,33,0.9797958971132713,5,0
+Gcore IPv4,nic.ng,29.8,30.0,29,31,0.7483314773547882,5,0
+Gcore IPv4,globo.com,31.4,31.0,30,34,1.4966629547095767,5,0
+Gcore IPv4,or.kr,58.8,32.0,29,171,56.112030795543305,5,0
+Gcore IPv4,mail.ru,125.6,30.0,29,505,189.71304646755317,5,0
+Gcore IPv4,nic.or.kr,31.4,32.0,28,33,1.8547236990991407,5,0
+Gcore IPv4,rogers.com,58.4,32.0,30,168,54.80729878401233,5,0
+Gcore IPv4,sapo.pt,119.0,31.0,29,472,176.5026911976132,5,0
+Gcore IPv4,telstra.com.au,95.0,33.0,29,343,124.04515306935616,5,0
+Gcore IPv4,ntt.com,57.4,32.0,30,161,51.82123117024527,5,0
+Gcore IPv4,iana.org,31.6,31.0,31,33,0.7999999999999999,5,0
+Gcore IPv4,bell.ca,75.2,32.0,27,248,86.45785100267067,5,0
+Gcore IPv4,blackhole.webpagetest.org,31.8,31.0,30,36,2.1354156504062622,5,0
+Gcore IPv4,example.net,77.8,31.0,29,269,95.6041840088602,5,0
+Gcore IPv4,proximus.be,100.4,31.0,29,377,138.3150028015761,5,0
+Gcore IPv4,example.edu,75.4,31.0,29,257,90.80440517948453,5,0
+Gcore IPv4,test-ipv6.com,59.6,35.0,29,166,53.24509367068482,5,0
+Gcore IPv4,test.openresolver.com,33.2,34.0,26,39,4.261455150532504,5,0
+Gcore IPv4,kpn.com,131.0,32.0,29,530,199.5033834299559,5,0
+Gcore IPv4,sina.com.cn,96.6,32.0,31,355,129.20154797834275,5,0
+Gcore IPv4,myip.opendns.com,31.0,30.0,30,34,1.5491933384829668,5,0
+Gcore IPv4,zone.ug,32.4,32.0,32,34,0.8,5,0
+Gcore IPv4,openstreetmap.fr,64.8,32.0,28,199,67.12197851672728,5,0
+Gcore IPv4,ip6.nl,32.0,31.0,30,36,2.0976176963403033,5,0
+Gcore IPv4,root-servers.net,30.0,30.0,29,31,0.6324555320336759,5,0
+Gcore IPv4,whoami.akamai.net,73.6,29.0,21,258,92.26396913205068,5,0
+Gcore IPv4,torproject.org,84.2,34.0,30,280,98.06610015698595,5,0
+Gcore IPv4,dnscrypt.info,30.4,30.0,28,34,2.0591260281974,5,0
+Gcore IPv4,plan99.net,32.8,34.0,30,34,1.5999999999999999,5,0
+Gcore IPv4,xip.io,67.2,32.0,29,212,72.41381083743626,5,0
+Gcore IPv4,dnspython.org,34.8,30.0,27,55,10.225458424931373,5,0
+Gcore IPv4,publicsuffix.org,31.0,31.0,30,32,0.8944271909999159,5,0
+Gcore IPv4,labnbook.com,30.8,30.0,26,35,3.3105890714493698,5,0
+Gcore IPv4,openwrt.org,30.8,30.0,30,33,1.1661903789690602,5,0
+Gcore IPv4,nlnetlabs.nl,91.4,32.0,29,334,121.3055645879446,5,0
+Gcore IPv4,nvlpubs.nist.gov,33.4,34.0,27,38,3.6110940170535573,5,0
+Gcore IPv4,archive.org,83.4,34.0,31,283,99.8130252021248,5,0
+Gcore IPv4,dl.acm.org,33.2,34.0,32,34,0.9797958971132712,5,0
+Gcore IPv4,eprints.soton.ac.uk,32.0,32.0,27,35,2.756809750418044,5,0
+Gcore IPv4,rsdn.org,31.8,31.0,28,37,3.059411708155671,5,0
+Gcore IPv4,dnscheck.tools,31.6,30.0,30,35,2.0591260281974,5,0
+Gcore IPv4,dnsleaktest.com,82.8,32.0,30,288,102.60487317861661,5,0
+Gcore IPv4,ipinfo.io,30.0,30.0,27,32,1.6733200530681511,5,0
+Gcore IPv4,checkmydns.net,29.8,30.0,27,31,1.4696938456699067,5,0
+Gcore IPv4,cloudping.info,36.8,30.0,27,63,13.287588193498474,5,0
+Gcore IPv4,speed.cloudflare.com,30.8,30.0,28,34,2.7129319932501073,5,0
+Gcore IPv4,bgp.he.net,30.2,30.0,29,32,1.1661903789690602,5,0
+Gcore IPv4,ping.pe,32.8,34.0,28,37,3.31058907144937,5,0
+Gcore IPv4,ping.eu,31.4,32.0,30,33,1.2,5,0
+Gcore IPv4,whatismyip.akamai.com,57.8,29.0,27,175,58.60853180211905,5,0
+Gcore IPv4,trace.test,31.4,30.0,30,35,1.9595917942265424,5,0
+Gcore IPv4,a.root-servers.net,32.2,32.0,30,34,1.5999999999999999,5,0
+Gcore IPv4,l.root-servers.net,31.6,32.0,30,32,0.7999999999999999,5,0
+Gcore IPv4,int,28.4,28.0,27,30,1.3564659966250538,5,0
+Gcore IPv4,root-servers.org,29.6,30.0,27,32,1.854723699099141,5,0
+Gcore IPv4,iana.com,30.2,30.0,27,33,1.9390719429665317,5,0
+Gcore IPv4,arpa,31.2,30.0,27,36,3.3105890714493698,5,0
+Gcore IPv4,tld-list.com,32.4,32.0,30,36,2.0591260281974,5,0
+Gcore IPv6,google.com,34.4,34.0,31,40,3.1368774282716245,5,0
+Gcore IPv6,youtube.com,33.8,33.0,32,36,1.8330302779823362,5,0
+Gcore IPv6,facebook.com,33.0,34.0,28,36,2.8284271247461903,5,0
+Gcore IPv4,whois.iana.org,223.4,270.0,31,278,96.31116238526042,5,0
+Gcore IPv6,wikipedia.org,33.0,33.0,32,35,1.0954451150103321,5,0
+Gcore IPv6,amazon.com,32.0,32.0,27,35,2.9664793948382653,5,0
+Gcore IPv6,apple.com,34.2,35.0,31,37,2.039607805437114,5,0
+Gcore IPv6,microsoft.com,33.2,33.0,31,37,2.227105745132009,5,0
+Gcore IPv6,instagram.com,38.0,35.0,27,60,11.384199576606166,5,0
+Gcore IPv6,bing.com,31.6,32.0,30,33,1.019803902718557,5,0
+Gcore IPv6,linkedin.com,39.2,33.0,31,64,12.512393855693642,5,0
+Gcore IPv6,netflix.com,37.0,33.0,32,54,8.532291603080617,5,0
+Gcore IPv6,reddit.com,32.2,31.0,31,35,1.5999999999999999,5,0
+Gcore IPv6,quora.com,31.2,32.0,28,35,2.481934729198171,5,0
+Gcore IPv6,spotify.com,31.4,32.0,28,34,1.9595917942265426,5,0
+Gcore IPv6,twitch.tv,32.0,32.0,30,34,1.4142135623730951,5,0
+Gcore IPv6,zoom.us,34.6,33.0,30,44,5.0039984012787215,5,0
+Gcore IPv6,nytimes.com,31.8,32.0,30,33,1.1661903789690602,5,0
+Gcore IPv6,bbc.com,31.8,32.0,31,33,0.7483314773547883,5,0
+Gcore IPv6,whatsapp.com,34.0,34.0,31,38,2.449489742783178,5,0
+Gcore IPv6,espn.com,42.8,31.0,30,86,21.70161284328886,5,0
+Gcore IPv6,twitter.com,32.0,32.0,31,34,1.0954451150103321,5,0
+Gcore IPv6,tiktok.com,32.0,32.0,30,34,1.4142135623730951,5,0
+Gcore IPv6,pinterest.com,32.6,33.0,31,34,1.3564659966250536,5,0
+Gcore IPv6,ebay.com,58.8,31.0,31,168,54.605494229060874,5,0
+Gcore IPv6,weather.com,31.0,30.0,30,33,1.2649110640673518,5,0
+Gcore IPv6,imdb.com,31.6,32.0,30,33,1.0198039027185568,5,0
+Gcore IPv6,wordpress.com,31.6,32.0,30,33,1.019803902718557,5,0
+Gcore IPv6,paypal.com,32.2,32.0,30,35,1.7204650534085253,5,0
+Gcore IPv6,booking.com,35.8,32.0,27,57,10.796295661012625,5,0
+Gcore IPv6,cnn.com,33.0,33.0,32,34,0.6324555320336759,5,0
+Gcore IPv6,airbnb.com,30.4,30.0,30,31,0.4898979485566356,5,0
+Gcore IPv6,tumblr.com,31.6,32.0,30,33,1.0198039027185568,5,0
+Gcore IPv6,gitlab.com,31.8,31.0,30,36,2.1354156504062622,5,0
+Gcore IPv6,github.com,45.8,33.0,30,99,26.678830559078108,5,0
+Gcore IPv6,stackoverflow.com,34.8,33.0,31,44,4.833218389437829,5,0
+Gcore IPv6,docker.com,33.4,32.0,31,39,2.870540018881465,5,0
+Gcore IPv6,pypi.org,33.4,32.0,31,39,3.0066592756745814,5,0
+Gcore IPv6,files.pythonhosted.org,33.4,31.0,28,41,4.586937976471886,5,0
+Gcore IPv6,npmjs.com,31.4,33.0,28,34,2.4166091947189146,5,0
+Gcore IPv6,registry.npmjs.org,31.6,31.0,30,35,1.7435595774162693,5,0
+Gcore IPv6,cran.r-project.org,32.4,33.0,31,34,1.2,5,0
+Gcore IPv6,bitbucket.org,34.6,31.0,30,49,7.227724399837061,5,0
+Gcore IPv6,repo.maven.apache.org,31.8,32.0,31,33,0.7483314773547882,5,0
+Gcore IPv6,jetbrains.com,31.6,31.0,29,36,2.3323807579381204,5,0
+Gcore IPv6,sourceforge.net,30.6,31.0,27,33,2.0591260281974,5,0
+Gcore IPv6,dev.to,33.2,33.0,31,37,2.039607805437114,5,0
+Gcore IPv6,rubygems.org,79.0,32.0,30,268,94.50925880568528,5,0
+Gcore IPv6,registry.terraform.io,32.2,31.0,29,38,3.0594117081556704,5,0
+Gcore IPv6,anaconda.org,30.0,30.0,24,37,4.147288270665544,5,0
+Gcore IPv6,prometheus.io,35.0,30.0,28,54,9.633275663033837,5,0
+Gcore IPv6,godoc.org,31.0,31.0,30,32,0.6324555320336759,5,0
+Gcore IPv6,readthedocs.io,31.6,31.0,30,34,1.624807680927192,5,0
+Gcore IPv6,circleci.com,35.0,34.0,31,45,5.176871642217914,5,0
+Gcore IPv6,cloudflare.com,33.6,32.0,29,41,4.17612260356422,5,0
+Gcore IPv6,grafana.com,36.4,34.0,29,54,9.00222194794152,5,0
+Gcore IPv6,travis-ci.com,32.2,30.0,27,44,6.046486583132388,5,0
+Gcore IPv6,dns.google,33.8,35.0,30,39,3.4292856398964493,5,0
+Gcore IPv6,cloudfront.net,31.6,31.0,30,36,2.244994432064365,5,0
+Gcore IPv6,one.one.one.one,31.4,31.0,30,33,1.3564659966250538,5,0
+Gcore IPv6,cdn.cloudflare.net,30.2,31.0,26,34,3.1874754901018454,5,0
+Gcore IPv6,fastly.net,31.4,31.0,31,32,0.4898979485566356,5,0
+Gcore IPv6,akamai.net,30.6,31.0,26,33,2.4166091947189146,5,0
+Gcore IPv6,opendns.com,31.0,31.0,23,37,4.560701700396552,5,0
+Gcore IPv6,edgesuite.net,30.2,31.0,24,33,3.1874754901018454,5,0
+Gcore IPv6,adguard.com,32.6,33.0,31,35,1.4966629547095764,5,0
+Gcore IPv6,quad9.net,30.4,31.0,24,34,3.3823069050575523,5,0
+Gcore IPv6,verisign.com,33.0,32.0,31,38,2.6076809620810595,5,0
+Gcore IPv6,nextdns.io,30.8,30.0,30,33,1.1661903789690602,5,0
+Gcore IPv6,cleanbrowsing.org,35.0,34.0,31,41,3.40587727318528,5,0
+Gcore IPv6,resolver.arpa,31.0,31.0,30,33,1.0954451150103321,5,0
+Gcore IPv6,nsone.net,31.2,31.0,31,32,0.39999999999999997,5,0
+Gcore IPv6,ultradns.com,32.2,32.0,31,34,0.9797958971132712,5,0
+Gcore IPv6,resolv.conf,33.0,33.0,31,37,2.1908902300206643,5,0
+Gcore IPv6,level3.com,30.8,31.0,30,31,0.39999999999999997,5,0
+Gcore IPv6,akamaihd.net,31.4,31.0,30,33,1.3564659966250536,5,0
+Gcore IPv6,edgekey.net,32.4,33.0,31,34,1.2,5,0
+Gcore IPv6,cachefly.net,30.8,31.0,30,31,0.39999999999999997,5,0
+Gcore IPv6,dns.adguard-dns.com,31.6,31.0,27,38,3.6110940170535573,5,0
+Gcore IPv6,akamai.com,83.6,31.0,31,291,103.70650895676704,5,0
+Gcore IPv6,stackpathdns.com,32.8,32.0,31,37,2.227105745132009,5,0
+Gcore IPv6,zenedge.net,31.2,31.0,30,33,0.9797958971132712,5,0
+Gcore IPv6,baidu.com,30.8,31.0,27,34,2.315167380558045,5,0
+Gcore IPv6,yandex.ru,31.2,31.0,30,32,0.7483314773547882,5,0
+Gcore IPv6,nic.in,31.0,31.0,30,33,1.0954451150103321,5,0
+Gcore IPv6,he.net,31.8,32.0,30,33,0.9797958971132712,5,0
+Gcore IPv6,jio.com,31.6,31.0,30,34,1.3564659966250536,5,0
+Gcore IPv6,gov.uk,31.2,31.0,30,33,0.9797958971132712,5,0
+Gcore IPv6,naver.com,30.2,30.0,29,31,0.7483314773547882,5,0
+Gcore IPv6,nic.cl,31.4,31.0,31,32,0.4898979485566356,5,0
+Gcore IPv6,nic.coop,31.4,31.0,31,32,0.4898979485566356,5,0
+Gcore IPv6,zone.ug,32.0,32.0,31,34,1.0954451150103321,5,0
+Gcore IPv6,cern.ch,31.2,31.0,31,32,0.39999999999999997,5,0
+Gcore IPv6,nic.br,31.8,32.0,30,34,1.3266499161421599,5,0
+Gcore IPv6,nic.cn,32.2,32.0,31,35,1.4696938456699067,5,0
+Gcore IPv6,nic.ru,33.8,33.0,31,41,3.7094473981982814,5,0
+Gcore IPv6,nic.af,32.2,31.0,31,36,1.9390719429665317,5,0
+Gcore IPv6,mail.ru,31.4,32.0,29,33,1.3564659966250536,5,0
+Gcore IPv6,nic.ng,31.4,31.0,30,33,1.3564659966250536,5,0
+Gcore IPv6,globo.com,31.8,32.0,31,33,0.7483314773547882,5,0
+Gcore IPv6,sina.com.cn,83.4,33.0,31,288,102.30659802769321,5,0
+Gcore IPv6,telstra.com.au,32.4,33.0,30,34,1.3564659966250536,5,0
+Gcore IPv6,or.kr,33.0,33.0,31,36,1.6733200530681511,5,0
+Gcore IPv6,nic.or.kr,30.4,31.0,27,32,1.8547236990991407,5,0
+Gcore IPv6,rogers.com,30.6,31.0,27,33,2.0591260281974,5,0
+Gcore IPv6,ntt.com,30.8,30.0,30,32,0.9797958971132712,5,0
+Gcore IPv6,bell.ca,32.0,31.0,31,36,2.0,5,0
+Gcore IPv6,example.net,29.8,30.0,28,32,1.3266499161421599,5,0
+Gcore IPv6,example.edu,31.0,31.0,25,36,3.63318042491699,5,0
+Gcore IPv6,kpn.com,31.0,31.0,30,32,0.6324555320336759,5,0
+Gcore IPv6,proximus.be,31.8,32.0,29,34,1.7204650534085253,5,0
+Gcore IPv6,sapo.pt,30.8,31.0,28,32,1.4696938456699067,5,0
+Gcore IPv6,blackhole.webpagetest.org,31.0,33.0,27,34,2.898275349237888,5,0
+Gcore IPv6,ip6.nl,32.2,32.0,31,33,0.7483314773547882,5,0
+Gcore IPv6,iana.org,31.4,33.0,27,33,2.3323807579381204,5,0
+Gcore IPv6,whoami.akamai.net,34.0,34.0,31,37,2.280350850198276,5,0
+Gcore IPv6,myip.opendns.com,31.8,31.0,30,35,1.7204650534085253,5,0
+Gcore IPv6,openstreetmap.fr,33.0,31.0,29,41,4.1952353926806065,5,0
+Gcore IPv6,root-servers.net,31.0,31.0,27,35,2.6076809620810595,5,0
+Gcore IPv6,test-ipv6.com,35.6,32.0,31,51,7.735631842325487,5,0
+Gcore IPv6,test.openresolver.com,30.6,31.0,26,33,2.4166091947189146,5,0
+Gcore IPv6,xip.io,33.4,33.0,31,36,1.6248076809271923,5,0
+Gcore IPv6,plan99.net,32.6,33.0,30,36,2.0591260281974,5,0
+Gcore IPv6,dnspython.org,31.4,31.0,30,34,1.3564659966250536,5,0
+Gcore IPv6,torproject.org,31.8,31.0,31,34,1.1661903789690602,5,0
+Gcore IPv6,dnscrypt.info,31.4,30.0,30,34,1.7435595774162693,5,0
+Gcore IPv6,publicsuffix.org,31.6,31.0,31,34,1.2000000000000002,5,0
+Gcore IPv6,openwrt.org,31.8,32.0,30,33,1.1661903789690602,5,0
+Gcore IPv6,nlnetlabs.nl,31.6,32.0,30,34,1.4966629547095764,5,0
+Gcore IPv6,nvlpubs.nist.gov,34.4,34.0,31,40,3.0066592756745814,5,0
+Gcore IPv6,labnbook.com,31.6,32.0,27,35,2.6532998322843198,5,0
+Gcore IPv6,dl.acm.org,33.2,32.0,29,40,3.9698866482558417,5,0
+Gcore IPv6,archive.org,30.6,31.0,28,33,1.624807680927192,5,0
+Gcore IPv6,eprints.soton.ac.uk,32.0,31.0,31,35,1.5491933384829668,5,0
+Gcore IPv6,dnscheck.tools,33.2,32.0,30,38,2.9257477676655586,5,0
+Gcore IPv6,rsdn.org,36.2,34.0,31,51,7.520638270785265,5,0
+Gcore IPv6,checkmydns.net,31.0,31.0,29,34,1.6733200530681511,5,0
+Gcore IPv6,whatismyip.akamai.com,33.4,32.0,31,40,3.3823069050575523,5,0
+Gcore IPv6,trace.test,31.4,31.0,31,32,0.4898979485566356,5,0
+Gcore IPv6,dnsleaktest.com,31.2,31.0,31,32,0.39999999999999997,5,0
+Gcore IPv6,ipinfo.io,32.6,32.0,31,36,1.8547236990991407,5,0
+Gcore IPv6,speed.cloudflare.com,32.4,32.0,31,34,1.3564659966250536,5,0
+Gcore IPv6,cloudping.info,32.2,32.0,31,35,1.4696938456699067,5,0
+Gcore IPv6,bgp.he.net,31.6,31.0,30,34,1.3564659966250538,5,0
+Gcore IPv6,a.root-servers.net,32.2,31.0,31,34,1.4696938456699067,5,0
+Gcore IPv6,l.root-servers.net,31.8,32.0,31,33,0.7483314773547882,5,0
+Gcore IPv6,ping.eu,32.8,32.0,30,38,2.7856776554368237,5,0
+Gcore IPv6,root-servers.org,32.2,31.0,30,35,1.9390719429665315,5,0
+Gcore IPv6,int,32.0,32.0,30,34,1.4142135623730951,5,0
+Gcore IPv6,arpa,31.2,31.0,29,33,1.3266499161421599,5,0
+Gcore IPv6,ping.pe,34.4,33.0,31,41,3.4409301068170506,5,0
+Gcore IPv6,iana.com,31.2,31.0,30,32,0.7483314773547882,5,0
+OpenDNS IPv4,facebook.com,34.0,30.0,28,52,9.055385138137417,5,0
+OpenDNS IPv4,amazon.com,29.8,30.0,28,31,0.9797958971132713,5,0
+Gcore IPv6,tld-list.com,33.8,33.0,30,37,2.7856776554368237,5,0
+OpenDNS IPv4,youtube.com,41.0,33.0,28,82,20.600970850908944,5,0
+OpenDNS IPv4,google.com,56.6,36.0,32,92,28.12543332999511,5,0
+OpenDNS IPv4,wikipedia.org,65.8,87.0,29,89,27.286626761107723,5,0
+Gcore IPv6,whois.iana.org,223.8,261.0,32,284,96.47673294634308,5,0
+OpenDNS IPv4,microsoft.com,29.0,29.0,28,30,0.6324555320336759,5,0
+OpenDNS IPv4,apple.com,30.0,30.0,29,32,1.0954451150103321,5,0
+OpenDNS IPv4,reddit.com,30.0,30.0,29,32,1.0954451150103321,5,0
+OpenDNS IPv4,bing.com,32.6,30.0,29,40,4.079215610874227,5,0
+OpenDNS IPv4,linkedin.com,33.6,34.0,30,38,3.2,5,0
+OpenDNS IPv4,instagram.com,46.2,54.0,30,60,13.362634470792052,5,0
+OpenDNS IPv4,netflix.com,31.4,31.0,30,34,1.4966629547095764,5,0
+OpenDNS IPv4,spotify.com,31.8,32.0,29,34,1.7204650534085253,5,0
+OpenDNS IPv4,quora.com,39.4,36.0,30,57,10.190191362285598,5,0
+OpenDNS IPv4,twitch.tv,29.4,30.0,28,30,0.7999999999999999,5,0
+OpenDNS IPv4,zoom.us,47.8,47.0,30,60,10.186265262597475,5,0
+OpenDNS IPv4,whatsapp.com,29.6,30.0,29,30,0.4898979485566356,5,0
+OpenDNS IPv4,espn.com,38.6,33.0,32,48,7.28285658241325,5,0
+OpenDNS IPv4,bbc.com,102.0,33.0,29,356,127.58526560696576,5,0
+OpenDNS IPv4,nytimes.com,50.6,56.0,34,67,13.60294085850556,5,0
+OpenDNS IPv4,twitter.com,29.2,29.0,29,30,0.39999999999999997,5,0
+OpenDNS IPv4,tiktok.com,45.8,33.0,31,71,17.508854902591434,5,0
+OpenDNS IPv4,pinterest.com,30.2,30.0,29,31,0.7483314773547882,5,0
+OpenDNS IPv4,cnn.com,35.0,31.0,26,52,9.077444574328174,5,0
+OpenDNS IPv4,paypal.com,31.0,30.0,29,34,1.7888543819998317,5,0
+OpenDNS IPv4,wordpress.com,29.0,30.0,26,30,1.5491933384829668,5,0
+OpenDNS IPv4,imdb.com,34.8,32.0,28,51,8.280096617793781,5,0
+OpenDNS IPv4,booking.com,43.6,49.0,30,54,9.687104830649869,5,0
+OpenDNS IPv4,weather.com,35.2,30.0,27,59,11.973303637676612,5,0
+OpenDNS IPv4,ebay.com,53.6,30.0,29,94,29.830186053727523,5,0
+OpenDNS IPv4,airbnb.com,44.0,30.0,29,83,20.75572210259137,5,0
+OpenDNS IPv4,stackoverflow.com,29.0,29.0,27,31,1.2649110640673518,5,0
+OpenDNS IPv4,gitlab.com,30.0,30.0,29,31,0.6324555320336759,5,0
+OpenDNS IPv4,tumblr.com,42.0,30.0,29,92,25.00399968005119,5,0
+OpenDNS IPv4,github.com,35.8,33.0,30,51,7.730459236035075,5,0
+OpenDNS IPv4,docker.com,31.2,29.0,29,36,2.85657137141714,5,0
+OpenDNS IPv4,pypi.org,29.6,30.0,29,30,0.4898979485566356,5,0
+OpenDNS IPv4,files.pythonhosted.org,30.2,30.0,29,31,0.7483314773547882,5,0
+OpenDNS IPv4,npmjs.com,46.0,36.0,29,96,25.163465580082566,5,0
+OpenDNS IPv4,repo.maven.apache.org,30.0,30.0,29,31,0.6324555320336759,5,0
+OpenDNS IPv4,registry.npmjs.org,28.8,30.0,25,30,1.9390719429665315,5,0
+OpenDNS IPv4,rubygems.org,46.8,33.0,30,101,27.22792683991934,5,0
+OpenDNS IPv4,bitbucket.org,35.2,31.0,30,52,8.423775875461075,5,0
+OpenDNS IPv4,dev.to,33.6,34.0,30,37,2.4166091947189146,5,0
+OpenDNS IPv4,sourceforge.net,87.2,87.0,28,144,36.73363581242674,5,0
+OpenDNS IPv4,jetbrains.com,32.4,33.0,29,34,1.8547236990991407,5,0
+OpenDNS IPv4,readthedocs.io,33.0,30.0,29,45,6.0332412515993425,5,0
+OpenDNS IPv4,godoc.org,54.6,34.0,33,136,40.711669088849696,5,0
+OpenDNS IPv4,registry.terraform.io,35.2,33.0,26,49,7.547184905645283,5,0
+OpenDNS IPv4,anaconda.org,30.2,30.0,25,36,3.4871191548325386,5,0
+OpenDNS IPv4,prometheus.io,33.4,30.0,25,46,7.391887445030532,5,0
+OpenDNS IPv4,circleci.com,46.8,55.0,29,56,11.232096865679177,5,0
+OpenDNS IPv4,grafana.com,29.2,29.0,29,30,0.39999999999999997,5,0
+OpenDNS IPv4,cloudflare.com,29.6,29.0,29,31,0.7999999999999999,5,0
+OpenDNS IPv4,cloudfront.net,30.4,30.0,29,32,1.019803902718557,5,0
+OpenDNS IPv4,dns.google,27.2,29.0,20,30,3.655133376499413,5,0
+OpenDNS IPv4,cdn.cloudflare.net,28.6,29.0,20,35,4.841487374764082,5,0
+OpenDNS IPv4,travis-ci.com,83.4,42.0,28,264,90.4822634553314,5,0
+OpenDNS IPv4,fastly.net,30.2,31.0,25,33,2.7856776554368237,5,0
+OpenDNS IPv4,akamai.net,35.6,30.0,27,63,13.749181793837769,5,0
+OpenDNS IPv4,one.one.one.one,140.4,30.0,29,583,221.3003389062023,5,0
+OpenDNS IPv4,edgesuite.net,29.0,29.0,25,32,2.280350850198276,5,0
+OpenDNS IPv4,opendns.com,29.0,29.0,28,30,0.6324555320336759,5,0
+OpenDNS IPv4,quad9.net,52.4,34.0,30,133,40.33162530818712,5,0
+OpenDNS IPv4,adguard.com,52.6,41.0,38,95,21.527656630483495,5,0
+OpenDNS IPv4,nextdns.io,38.4,40.0,34,43,3.3823069050575527,5,0
+OpenDNS IPv4,verisign.com,29.4,29.0,28,31,1.019803902718557,5,0
+OpenDNS IPv4,cleanbrowsing.org,92.4,93.0,87,95,2.9393876913398134,5,0
+OpenDNS IPv4,ultradns.com,37.6,34.0,30,53,8.260750571225353,5,0
+OpenDNS IPv4,resolver.arpa,29.8,30.0,28,31,0.9797958971132712,5,0
+OpenDNS IPv4,resolv.conf,32.8,35.0,28,36,3.54400902933387,5,0
+OpenDNS IPv4,nsone.net,106.8,63.0,55,195,59.867854479678826,5,0
+OpenDNS IPv4,akamai.com,41.0,33.0,28,60,13.66747965061591,5,0
+OpenDNS IPv4,akamaihd.net,30.8,31.0,29,33,1.5999999999999999,5,0
+OpenDNS IPv4,edgekey.net,45.4,33.0,28,75,19.043108989868223,5,0
+OpenDNS IPv4,level3.com,226.0,269.0,39,283,93.65041377377892,5,0
+OpenDNS IPv4,he.net,28.6,29.0,27,29,0.7999999999999999,5,0
+OpenDNS IPv4,dns.adguard-dns.com,30.4,30.0,29,32,1.019803902718557,5,0
+OpenDNS IPv4,yandex.ru,29.4,30.0,22,34,3.97994974842648,5,0
+OpenDNS IPv4,baidu.com,31.0,30.0,29,33,1.6733200530681511,5,0
+OpenDNS IPv4,zenedge.net,29.2,29.0,28,30,0.7483314773547882,5,0
+OpenDNS IPv4,cachefly.net,30.4,30.0,28,33,1.624807680927192,5,0
+OpenDNS IPv4,naver.com,90.4,92.0,86,94,2.9393876913398134,5,0
+OpenDNS IPv4,stackpathdns.com,121.6,97.0,32,266,89.3097978947439,5,0
+OpenDNS IPv4,cran.r-project.org,510.8,664.0,29,1062,414.0673375189113,5,0
+OpenDNS IPv4,nic.coop,35.2,35.0,32,39,2.5612496949731396,5,0
+OpenDNS IPv4,jio.com,29.2,30.0,24,33,2.9257477676655586,5,0
+OpenDNS IPv4,nic.in,54.2,63.0,28,78,18.37824801225623,5,0
+OpenDNS IPv4,gov.uk,62.4,34.0,32,159,48.984079046155394,5,0
+OpenDNS IPv4,zone.ug,88.2,29.0,25,329,120.40996636491516,5,0
+OpenDNS IPv4,nic.cn,31.0,31.0,29,33,1.2649110640673518,5,0
+OpenDNS IPv4,nic.ng,62.0,76.0,29,94,27.18087562975115,5,0
+OpenDNS IPv4,cern.ch,251.4,250.0,32,554,173.01051991136262,5,0
+OpenDNS IPv4,nic.ru,159.2,241.0,28,250,106.34923601041993,5,0
+OpenDNS IPv4,nic.af,232.0,294.0,29,409,169.71034146450828,5,0
+OpenDNS IPv4,nic.cl,349.6,30.0,27,1396,531.2139305402299,5,0
+OpenDNS IPv4,mail.ru,234.6,278.0,30,306,102.97494840979529,5,0
+OpenDNS IPv4,nic.br,405.8,32.0,30,1904,749.1003671071054,5,0
+OpenDNS IPv4,telstra.com.au,90.4,30.0,29,332,120.80496678531061,5,0
+OpenDNS IPv4,or.kr,173.8,158.0,152,201,22.301569451498253,5,0
+OpenDNS IPv4,rogers.com,44.2,49.0,30,54,9.826494797230598,5,0
+OpenDNS IPv4,sina.com.cn,396.4,281.0,148,908,266.8322319360987,5,0
+OpenDNS IPv4,bell.ca,81.0,30.0,29,286,102.5007317047054,5,0
+OpenDNS IPv4,ntt.com,140.4,167.0,31,171,54.74888126710901,5,0
+OpenDNS IPv4,iana.org,29.0,30.0,24,33,3.1622776601683795,5,0
+OpenDNS IPv4,blackhole.webpagetest.org,29.8,30.0,29,31,0.7483314773547882,5,0
+OpenDNS IPv4,sapo.pt,416.4,244.0,237,920,263.22811400000575,5,0
+OpenDNS IPv4,whoami.akamai.net,31.0,30.0,29,35,2.0976176963403033,5,0
+OpenDNS IPv4,kpn.com,246.8,162.0,147,475,124.99183973364022,5,0
+OpenDNS IPv4,myip.opendns.com,31.0,31.0,29,33,1.4142135623730951,5,0
+OpenDNS IPv4,test.openresolver.com,69.2,94.0,29,97,32.027488193737575,5,0
+OpenDNS IPv4,nic.or.kr,510.0,636.0,31,643,239.93915895493174,5,0
+OpenDNS IPv4,test-ipv6.com,164.4,164.0,161,169,3.1999999999999997,5,0
+OpenDNS IPv4,globo.com,669.2,44.0,30,1826,787.547433492104,5,0
+OpenDNS IPv4,root-servers.net,77.8,93.0,31,132,39.31106714399903,5,0
+OpenDNS IPv4,openstreetmap.fr,212.0,40.0,34,579,224.00089285536342,5,0
+OpenDNS IPv4,plan99.net,31.8,30.0,29,36,3.059411708155671,5,0
+OpenDNS IPv4,proximus.be,401.4,564.0,153,572,202.8364858697764,5,0
+OpenDNS IPv4,publicsuffix.org,30.0,30.0,30,30,0.0,5,0
+OpenDNS IPv4,dnspython.org,45.0,49.0,32,57,10.936178491593852,5,0
+OpenDNS IPv4,torproject.org,223.8,100.0,28,600,207.9407607949918,5,0
+OpenDNS IPv4,openwrt.org,49.4,36.0,30,111,30.897249068485046,5,0
+OpenDNS IPv4,archive.org,32.6,30.0,28,43,5.351635264103861,5,0
+OpenDNS IPv4,labnbook.com,79.4,90.0,33,94,23.260266550493352,5,0
+OpenDNS IPv4,nlnetlabs.nl,114.6,132.0,31,238,76.89369284928381,5,0
+OpenDNS IPv4,example.net,600.0,678.0,283,686,158.56481324682346,5,0
+OpenDNS IPv4,nvlpubs.nist.gov,35.4,34.0,31,40,3.4985711369071804,5,0
+OpenDNS IPv4,dl.acm.org,49.4,37.0,33,101,25.896717938765907,5,0
+OpenDNS IPv4,dnscrypt.info,340.2,513.0,29,614,256.3009168926245,5,0
+OpenDNS IPv4,xip.io,434.8,294.0,93,1093,346.738748916241,5,0
+OpenDNS IPv4,example.edu,642.6,667.0,284,907,200.97422720339043,5,0
+OpenDNS IPv4,ip6.nl,533.8,768.0,29,950,414.69574388942067,5,0
+OpenDNS IPv4,eprints.soton.ac.uk,31.6,31.0,28,37,3.1999999999999997,5,0
+OpenDNS IPv4,rsdn.org,31.4,30.0,29,38,3.3226495451672293,5,0
+OpenDNS IPv4,dnscheck.tools,80.4,104.0,42,107,30.558795787792427,5,0
+OpenDNS IPv4,ipinfo.io,35.2,34.0,30,44,4.707440918375928,5,0
+OpenDNS IPv4,trace.test,30.0,30.0,29,32,1.0954451150103321,5,0
+OpenDNS IPv4,cloudping.info,50.6,54.0,36,58,7.631513611335565,5,0
+OpenDNS IPv4,speed.cloudflare.com,31.4,32.0,29,33,1.3564659966250536,5,0
+OpenDNS IPv4,bgp.he.net,32.2,30.0,30,39,3.4871191548325386,5,0
+OpenDNS IPv4,a.root-servers.net,30.8,30.0,29,33,1.469693845669907,5,0
+OpenDNS IPv4,dnsleaktest.com,331.4,420.0,33,647,233.73369461846957,5,0
+OpenDNS IPv4,ping.pe,55.2,46.0,40,98,21.75683800555586,5,0
+OpenDNS IPv4,ping.eu,63.2,30.0,29,197,66.90112106684013,5,0
+OpenDNS IPv4,checkmydns.net,360.4,34.0,31,1108,432.5554762108555,5,0
+OpenDNS IPv4,int,38.0,33.0,29,50,9.09945053286186,5,0
+OpenDNS IPv4,l.root-servers.net,91.6,30.0,25,343,125.71491558283766,5,0
+OpenDNS IPv4,arpa,31.8,32.0,29,35,2.4819347291981715,5,0
+OpenDNS IPv4,tld-list.com,61.4,46.0,26,107,33.944660846737,5,0
+OpenDNS IPv4,whatismyip.akamai.com,42.4,34.0,30,61,12.93986089569745,5,0
+OpenDNS IPv4,root-servers.org,316.2,31.0,29,1457,570.4024544126717,5,0
+OpenDNS IPv6,youtube.com,35.8,36.0,32,39,2.315167380558045,5,0
+OpenDNS IPv6,google.com,83.0,93.0,35,100,24.240462041801102,5,0
+OpenDNS IPv6,facebook.com,35.2,33.0,33,42,3.4871191548325386,5,0
+OpenDNS IPv6,amazon.com,31.2,33.0,26,34,2.9257477676655586,5,0
+OpenDNS IPv6,wikipedia.org,57.2,36.0,31,94,29.280710373896326,5,0
+OpenDNS IPv6,apple.com,31.6,32.0,30,32,0.7999999999999999,5,0
+OpenDNS IPv6,microsoft.com,31.0,31.0,29,33,1.4142135623730951,5,0
+OpenDNS IPv6,bing.com,30.2,31.0,27,31,1.5999999999999999,5,0
+OpenDNS IPv6,linkedin.com,32.0,32.0,31,34,1.0954451150103321,5,0
+OpenDNS IPv6,instagram.com,39.0,35.0,32,57,9.359487165438072,5,0
+OpenDNS IPv6,reddit.com,42.4,35.0,32,57,10.781465577554844,5,0
+OpenDNS IPv6,netflix.com,36.8,33.0,32,54,8.611620056644394,5,0
+OpenDNS IPv6,spotify.com,37.4,34.0,31,47,6.086049621881176,5,0
+OpenDNS IPv6,quora.com,40.6,33.0,31,54,10.170545708072895,5,0
+OpenDNS IPv6,twitch.tv,37.6,33.0,31,55,8.845337754998392,5,0
+OpenDNS IPv4,iana.com,523.2,31.0,30,1332,605.234301737765,5,0
+OpenDNS IPv6,zoom.us,45.6,51.0,32,55,9.645724441429994,5,0
+OpenDNS IPv6,nytimes.com,38.6,35.0,31,58,9.850888284819801,5,0
+OpenDNS IPv6,espn.com,39.4,35.0,33,51,7.002856560004639,5,0
+OpenDNS IPv6,bbc.com,77.0,62.0,30,196,61.26010120788244,5,0
+OpenDNS IPv4,whois.iana.org,701.6,821.0,331,893,218.3498110830417,5,0
+OpenDNS IPv6,twitter.com,32.8,32.0,32,35,1.16619037896906,5,0
+OpenDNS IPv6,whatsapp.com,31.0,32.0,28,32,1.5491933384829668,5,0
+OpenDNS IPv6,pinterest.com,35.2,35.0,30,43,4.445222154178574,5,0
+OpenDNS IPv6,tiktok.com,44.4,47.0,32,63,11.60344776348823,5,0
+OpenDNS IPv6,imdb.com,80.2,33.0,32,269,94.40211862029369,5,0
+OpenDNS IPv6,ebay.com,95.6,92.0,89,114,9.264987857520376,5,0
+OpenDNS IPv6,cnn.com,42.4,37.0,34,68,12.93986089569745,5,0
+OpenDNS IPv6,paypal.com,34.6,33.0,33,38,2.0591260281974,5,0
+OpenDNS IPv6,booking.com,42.8,37.0,36,62,9.826494797230598,5,0
+OpenDNS IPv6,weather.com,42.4,33.0,32,57,11.92644121270046,5,0
+OpenDNS IPv6,wordpress.com,31.6,31.0,31,34,1.2000000000000002,5,0
+OpenDNS IPv6,tumblr.com,33.6,33.0,32,36,1.624807680927192,5,0
+OpenDNS IPv6,airbnb.com,87.6,60.0,34,244,79.13937073290386,5,0
+OpenDNS IPv6,stackoverflow.com,31.4,31.0,29,35,2.0591260281974,5,0
+OpenDNS IPv6,github.com,33.2,33.0,32,34,0.7483314773547882,5,0
+OpenDNS IPv6,gitlab.com,32.8,33.0,31,34,0.9797958971132711,5,0
+OpenDNS IPv6,files.pythonhosted.org,32.2,31.0,31,36,1.9390719429665317,5,0
+OpenDNS IPv6,docker.com,41.6,34.0,33,57,10.307278981380101,5,0
+OpenDNS IPv6,npmjs.com,51.8,41.0,37,100,24.14456460572441,5,0
+OpenDNS IPv6,pypi.org,45.4,45.0,33,55,8.357032966310472,5,0
+OpenDNS IPv6,registry.npmjs.org,32.2,32.0,31,34,1.16619037896906,5,0
+OpenDNS IPv6,repo.maven.apache.org,32.6,32.0,31,35,1.3564659966250536,5,0
+OpenDNS IPv6,rubygems.org,38.0,36.0,29,55,9.20869154657707,5,0
+OpenDNS IPv6,bitbucket.org,46.8,46.0,34,65,12.056533498481228,5,0
+OpenDNS IPv6,dev.to,33.4,33.0,30,39,3.1368774282716245,5,0
+OpenDNS IPv6,sourceforge.net,105.6,91.0,35,222,62.03418412456151,5,0
+OpenDNS IPv6,readthedocs.io,30.8,30.0,29,33,1.469693845669907,5,0
+OpenDNS IPv6,jetbrains.com,35.0,35.0,33,36,1.0954451150103321,5,0
+OpenDNS IPv6,anaconda.org,32.2,31.0,29,38,3.059411708155671,5,0
+OpenDNS IPv6,grafana.com,41.4,33.0,32,57,11.18212859879549,5,0
+OpenDNS IPv6,prometheus.io,35.8,37.0,31,41,3.762977544445356,5,0
+OpenDNS IPv6,registry.terraform.io,36.4,35.0,35,39,1.7435595774162693,5,0
+OpenDNS IPv6,godoc.org,40.0,38.0,33,55,7.720103626247513,5,0
+OpenDNS IPv6,travis-ci.com,54.4,42.0,39,105,25.350345165302976,5,0
+OpenDNS IPv6,circleci.com,91.6,59.0,35,264,86.99563207425992,5,0
+OpenDNS IPv6,cran.r-project.org,502.0,337.0,33,1167,468.9144911388429,5,0
+OpenDNS IPv6,cdn.cloudflare.net,33.8,35.0,31,36,1.9390719429665315,5,0
+OpenDNS IPv6,cloudflare.com,32.2,32.0,31,34,1.16619037896906,5,0
+OpenDNS IPv6,one.one.one.one,32.0,32.0,31,33,0.6324555320336759,5,0
+OpenDNS IPv6,dns.google,32.4,32.0,31,35,1.4966629547095764,5,0
+OpenDNS IPv6,cloudfront.net,44.4,45.0,35,56,8.06473806146238,5,0
+OpenDNS IPv6,fastly.net,32.4,32.0,31,34,1.0198039027185568,5,0
+OpenDNS IPv6,akamai.net,34.4,33.0,31,44,4.882622246293481,5,0
+OpenDNS IPv6,edgesuite.net,46.0,34.0,32,71,16.649324310613927,5,0
+OpenDNS IPv6,resolver.arpa,31.6,31.0,30,34,1.3564659966250536,5,0
+OpenDNS IPv6,opendns.com,33.2,32.0,31,37,2.4,5,0
+OpenDNS IPv6,nextdns.io,38.0,39.0,31,43,4.0,5,0
+OpenDNS IPv6,verisign.com,31.4,32.0,30,32,0.7999999999999999,5,0
+OpenDNS IPv6,adguard.com,95.4,45.0,32,262,87.5227970302595,5,0
+OpenDNS IPv6,quad9.net,45.2,32.0,30,101,27.909854890342945,5,0
+OpenDNS IPv6,ultradns.com,51.0,34.0,31,122,35.519008995184535,5,0
+OpenDNS IPv6,cleanbrowsing.org,68.8,91.0,31,98,30.55094106570205,5,0
+OpenDNS IPv6,nsone.net,63.6,62.0,54,71,6.280127387243033,5,0
+OpenDNS IPv6,resolv.conf,32.4,33.0,31,34,1.2,5,0
+OpenDNS IPv6,akamaihd.net,32.4,33.0,31,34,1.2,5,0
+OpenDNS IPv6,level3.com,189.4,211.0,36,273,80.29097084977862,5,0
+OpenDNS IPv6,dns.adguard-dns.com,31.8,32.0,31,33,0.7483314773547883,5,0
+OpenDNS IPv6,edgekey.net,39.4,32.0,31,69,14.813507349712964,5,0
+OpenDNS IPv6,stackpathdns.com,54.6,42.0,41,105,25.207935258564913,5,0
+OpenDNS IPv6,zenedge.net,44.2,32.0,30,94,24.919069003476032,5,0
+OpenDNS IPv6,baidu.com,35.2,34.0,31,39,2.925747767665559,5,0
+OpenDNS IPv6,yandex.ru,31.8,32.0,31,32,0.39999999999999997,5,0
+OpenDNS IPv6,jio.com,31.8,32.0,31,33,0.7483314773547882,5,0
+OpenDNS IPv6,naver.com,69.6,94.0,31,96,31.11655507925002,5,0
+OpenDNS IPv6,akamai.com,71.6,64.0,31,158,45.854552663830454,5,0
+OpenDNS IPv6,nic.coop,50.0,41.0,29,102,26.457513110645905,5,0
+OpenDNS IPv6,gov.uk,64.2,34.0,34,159,48.45781670690499,5,0
+OpenDNS IPv6,cern.ch,108.0,152.0,30,169,62.331372518178995,5,0
+OpenDNS IPv6,nic.cn,33.2,33.0,31,37,2.039607805437114,5,0
+OpenDNS IPv6,cachefly.net,34.4,35.0,32,37,2.0591260281974,5,0
+OpenDNS IPv6,he.net,33.6,32.0,32,38,2.3323807579381204,5,0
+OpenDNS IPv6,nic.ng,42.4,31.0,30,88,22.80877024304467,5,0
+OpenDNS IPv6,mail.ru,82.8,33.0,32,283,100.10274721504899,5,0
+OpenDNS IPv6,nic.ru,167.4,244.0,31,285,112.32559815108931,5,0
+OpenDNS IPv6,nic.in,37.8,31.0,29,67,14.620533505997654,5,0
+OpenDNS IPv6,rogers.com,54.8,33.0,31,136,40.8431144747802,5,0
+OpenDNS IPv6,nic.af,157.8,37.0,30,390,155.49199336300245,5,0
+OpenDNS IPv6,telstra.com.au,125.4,33.0,32,496,185.30148407392747,5,0
+OpenDNS IPv6,or.kr,121.6,165.0,32,191,73.28737954109152,5,0
+OpenDNS IPv6,nic.cl,376.6,211.0,32,1389,512.3555796514761,5,0
+OpenDNS IPv6,sina.com.cn,237.4,171.0,159,353,89.65177075774912,5,0
+OpenDNS IPv6,zone.ug,34.2,34.0,31,39,2.638181191654584,5,0
+OpenDNS IPv6,sapo.pt,342.2,290.0,32,855,273.9141471337324,5,0
+OpenDNS IPv6,bell.ca,195.8,36.0,31,587,220.2429567545805,5,0
+OpenDNS IPv6,iana.org,32.4,31.0,31,36,1.9595917942265424,5,0
+OpenDNS IPv6,blackhole.webpagetest.org,107.4,63.0,59,183,56.20533782480095,5,0
+OpenDNS IPv6,globo.com,458.6,709.0,29,814,351.6399294733179,5,0
+OpenDNS IPv6,test.openresolver.com,49.2,40.0,31,98,24.652788888886384,5,0
+OpenDNS IPv6,kpn.com,289.0,157.0,41,609,219.20310216782974,5,0
+OpenDNS IPv6,test-ipv6.com,229.4,155.0,30,770,276.16198145291474,5,0
+OpenDNS IPv6,whoami.akamai.net,54.0,35.0,31,131,38.657470170718625,5,0
+OpenDNS IPv6,root-servers.net,55.0,32.0,30,148,46.51881339845203,5,0
+OpenDNS IPv6,plan99.net,44.2,33.0,31,91,23.446961423604552,5,0
+OpenDNS IPv6,torproject.org,102.4,95.0,32,195,52.33583858122463,5,0
+OpenDNS IPv6,ip6.nl,203.2,33.0,22,890,343.43989284880695,5,0
+OpenDNS IPv6,publicsuffix.org,32.2,31.0,27,39,3.919183588453085,5,0
+OpenDNS IPv6,xip.io,166.8,208.0,29,335,117.97525164202872,5,0
+OpenDNS IPv6,archive.org,32.0,32.0,29,36,2.280350850198276,5,0
+OpenDNS IPv6,dnscrypt.info,144.0,32.0,30,593,224.50211580294737,5,0
+OpenDNS IPv6,openwrt.org,32.4,31.0,30,36,2.244994432064365,5,0
+OpenDNS IPv6,dl.acm.org,34.2,32.0,31,39,3.1874754901018454,5,0
+OpenDNS IPv6,dnspython.org,50.8,52.0,34,60,9.019977827023745,5,0
+OpenDNS IPv6,labnbook.com,59.0,37.0,31,100,30.757112998459398,5,0
+OpenDNS IPv6,openstreetmap.fr,262.6,319.0,31,434,144.26725200127714,5,0
+OpenDNS IPv6,nlnetlabs.nl,74.6,35.0,33,137,49.7377120503145,5,0
+OpenDNS IPv6,nvlpubs.nist.gov,39.8,40.0,37,44,2.4,5,0
+OpenDNS IPv6,eprints.soton.ac.uk,32.0,31.0,30,35,1.7888543819998317,5,0
+OpenDNS IPv6,nic.or.kr,151.2,36.0,27,624,236.43130080427167,5,0
+OpenDNS IPv6,proximus.be,318.6,167.0,152,556,193.89646721897745,5,0
+OpenDNS IPv6,ntt.com,413.0,580.0,36,644,254.7155275989275,5,0
+OpenDNS IPv6,rsdn.org,31.4,31.0,30,34,1.3564659966250536,5,0
+OpenDNS IPv6,dnscheck.tools,78.8,105.0,31,111,35.902089075706996,5,0
+OpenDNS IPv6,ipinfo.io,31.8,32.0,31,33,0.7483314773547882,5,0
+OpenDNS IPv6,whatismyip.akamai.com,60.0,63.0,45,70,8.579044235810887,5,0
+OpenDNS IPv6,cloudping.info,36.2,32.0,31,52,8.034923770640267,5,0
+OpenDNS IPv6,trace.test,29.8,31.0,23,32,3.4292856398964493,5,0
+OpenDNS IPv6,speed.cloudflare.com,31.8,32.0,31,33,0.7483314773547882,5,0
+OpenDNS IPv6,bgp.he.net,32.2,32.0,30,35,1.7204650534085253,5,0
+OpenDNS IPv6,example.net,492.4,679.0,34,691,259.3720108261491,5,0
+OpenDNS IPv6,myip.opendns.com,31.6,32.0,31,32,0.4898979485566356,5,0
+OpenDNS IPv6,ping.pe,43.4,43.0,31,53,7.525955088890711,5,0
+OpenDNS IPv6,checkmydns.net,283.2,37.0,31,741,310.84941692079786,5,0
+OpenDNS IPv6,example.edu,548.8,831.0,30,936,424.24021497260253,5,0
+OpenDNS IPv6,ping.eu,65.0,32.0,31,196,65.50725150698966,5,0
+OpenDNS IPv6,l.root-servers.net,33.0,33.0,32,34,0.6324555320336759,5,0
+OpenDNS IPv6,a.root-servers.net,31.0,31.0,30,32,0.8944271909999159,5,0
+OpenDNS IPv6,arpa,36.2,34.0,30,52,8.059776671843954,5,0
+OpenDNS IPv6,int,41.8,47.0,32,49,7.626270385975047,5,0
+OpenDNS IPv6,tld-list.com,132.4,101.0,47,277,81.4704854533223,5,0
+OpenDNS IPv6,dnsleaktest.com,306.4,322.0,31,438,146.3811463269775,5,0
+OpenDNS IPv6,root-servers.org,384.4,32.0,31,1614,618.8572048542377,5,0
+OpenDNS IPv6,whois.iana.org,661.4,435.0,285,1237,390.55580907214784,5,0
+OpenDNS IPv6,iana.com,547.8,31.0,30,1414,635.9375441031925,5,0
+OpenDNS IPv6,nic.br,425.8,34.0,30,1783,683.897477696767,5,0
